@@ -1,0 +1,5 @@
+
+# ignore zig cached items
+**zig-cache
+
+**/.env
