@@ -3,3 +3,10 @@
 **zig-cache
 
 **/.env
+
+**_build
+
+# rust
+**.toml
+**.lock
+target**
