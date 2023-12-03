@@ -1,0 +1,7516 @@
+0: [V]         [T]         [J]        
+1: [Q]         [M] [P]     [Q]     [J]
+2: [W] [B]     [N] [Q]     [C]     [T]
+3: [M] [C]     [F] [N]     [G] [W] [G]
+4: [B] [W] [J] [H] [L]     [R] [B] [C]
+5: [N] [R] [R] [W] [W] [W] [D] [N] [F]
+6: [Z] [Z] [Q] [S] [F] [P] [B] [Q] [L]
+7: [C] [H] [F] [Z] [G] [L] [V] [Z] [H]
+C Z N B M W Q V 
+H Z R W C B 
+F Q R J 
+Z S W H F N M T 
+G F W L N Q P 
+L P W 
+V B D R G C Q J 
+Z Q N B W 
+H L F C G T J 
+10:'move 2 from 1 to 7' 
+moving V
+moving Q
+C Z N B M W 
+H Z R W C B 
+F Q R J 
+Z S W H F N M T 
+G F W L N Q P 
+L P W 
+V B D R G C Q J V Q 
+Z Q N B W 
+H L F C G T J 
+11:'move 6 from 2 to 6' 
+moving B
+moving C
+moving W
+moving R
+moving Z
+moving H
+C Z N B M W 
+
+F Q R J 
+Z S W H F N M T 
+G F W L N Q P 
+L P W B C W R Z H 
+V B D R G C Q J V Q 
+Z Q N B W 
+H L F C G T J 
+12:'move 10 from 7 to 6' 
+moving Q
+moving V
+moving J
+moving Q
+moving C
+moving G
+moving R
+moving D
+moving B
+moving V
+C Z N B M W 
+
+F Q R J 
+Z S W H F N M T 
+G F W L N Q P 
+L P W B C W R Z H Q V J Q C G R D B V 
+
+Z Q N B W 
+H L F C G T J 
+13:'move 4 from 3 to 1' 
+moving J
+moving R
+moving Q
+moving F
+C Z N B M W J R Q F 
+
+
+Z S W H F N M T 
+G F W L N Q P 
+L P W B C W R Z H Q V J Q C G R D B V 
+
+Z Q N B W 
+H L F C G T J 
+14:'move 5 from 6 to 4' 
+moving V
+moving B
+moving D
+moving R
+moving G
+C Z N B M W J R Q F 
+
+
+Z S W H F N M T V B D R G 
+G F W L N Q P 
+L P W B C W R Z H Q V J Q C 
+
+Z Q N B W 
+H L F C G T J 
+15:'move 1 from 1 to 9' 
+moving F
+C Z N B M W J R Q 
+
+
+Z S W H F N M T V B D R G 
+G F W L N Q P 
+L P W B C W R Z H Q V J Q C 
+
+Z Q N B W 
+H L F C G T J F 
+16:'move 4 from 6 to 9' 
+moving C
+moving Q
+moving J
+moving V
+C Z N B M W J R Q 
+
+
+Z S W H F N M T V B D R G 
+G F W L N Q P 
+L P W B C W R Z H Q 
+
+Z Q N B W 
+H L F C G T J F C Q J V 
+17:'move 12 from 4 to 1' 
+moving G
+moving R
+moving D
+moving B
+moving V
+moving T
+moving M
+moving N
+moving F
+moving H
+moving W
+moving S
+C Z N B M W J R Q G R D B V T M N F H W S 
+
+
+Z 
+G F W L N Q P 
+L P W B C W R Z H Q 
+
+Z Q N B W 
+H L F C G T J F C Q J V 
+18:'move 5 from 1 to 4' 
+moving S
+moving W
+moving H
+moving F
+moving N
+C Z N B M W J R Q G R D B V T M 
+
+
+Z S W H F N 
+G F W L N Q P 
+L P W B C W R Z H Q 
+
+Z Q N B W 
+H L F C G T J F C Q J V 
+19:'move 7 from 9 to 8' 
+moving V
+moving J
+moving Q
+moving C
+moving F
+moving J
+moving T
+C Z N B M W J R Q G R D B V T M 
+
+
+Z S W H F N 
+G F W L N Q P 
+L P W B C W R Z H Q 
+
+Z Q N B W V J Q C F J T 
+H L F C G 
+20:'move 11 from 8 to 1' 
+moving T
+moving J
+moving F
+moving C
+moving Q
+moving J
+moving V
+moving W
+moving B
+moving N
+moving Q
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+
+
+Z S W H F N 
+G F W L N Q P 
+L P W B C W R Z H Q 
+
+Z 
+H L F C G 
+21:'move 6 from 6 to 2' 
+moving Q
+moving H
+moving Z
+moving R
+moving W
+moving C
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C 
+
+Z S W H F N 
+G F W L N Q P 
+L P W B 
+
+Z 
+H L F C G 
+22:'move 2 from 5 to 2' 
+moving P
+moving Q
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C P Q 
+
+Z S W H F N 
+G F W L N 
+L P W B 
+
+Z 
+H L F C G 
+23:'move 3 from 6 to 3' 
+moving B
+moving W
+moving P
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C P Q 
+B W P 
+Z S W H F N 
+G F W L N 
+L 
+
+Z 
+H L F C G 
+24:'move 4 from 9 to 4' 
+moving G
+moving C
+moving F
+moving L
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C P Q 
+B W P 
+Z S W H F N G C F L 
+G F W L N 
+L 
+
+Z 
+H 
+25:'move 2 from 2 to 5' 
+moving Q
+moving P
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C 
+B W P 
+Z S W H F N G C F L 
+G F W L N Q P 
+L 
+
+Z 
+H 
+26:'move 1 from 6 to 4' 
+moving L
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C 
+B W P 
+Z S W H F N G C F L L 
+G F W L N Q P 
+
+
+Z 
+H 
+27:'move 3 from 3 to 6' 
+moving P
+moving W
+moving B
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C 
+
+Z S W H F N G C F L L 
+G F W L N Q P 
+P W B 
+
+Z 
+H 
+28:'move 1 from 8 to 4' 
+moving Z
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q 
+Q H Z R W C 
+
+Z S W H F N G C F L L Z 
+G F W L N Q P 
+P W B 
+
+
+H 
+29:'move 1 from 6 to 1' 
+moving B
+C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+Q H Z R W C 
+
+Z S W H F N G C F L L Z 
+G F W L N Q P 
+P W 
+
+
+H 
+30:'move 28 from 1 to 4' 
+moving B
+moving Q
+moving N
+moving B
+moving W
+moving V
+moving J
+moving Q
+moving C
+moving F
+moving J
+moving T
+moving M
+moving T
+moving V
+moving B
+moving D
+moving R
+moving G
+moving Q
+moving R
+moving J
+moving W
+moving M
+moving B
+moving N
+moving Z
+moving C
+
+Q H Z R W C 
+
+Z S W H F N G C F L L Z B Q N B W V J Q C F J T M T V B D R G Q R J W M B N Z C 
+G F W L N Q P 
+P W 
+
+
+H 
+31:'move 28 from 4 to 5' 
+moving C
+moving Z
+moving N
+moving B
+moving M
+moving W
+moving J
+moving R
+moving Q
+moving G
+moving R
+moving D
+moving B
+moving V
+moving T
+moving M
+moving T
+moving J
+moving F
+moving C
+moving Q
+moving J
+moving V
+moving W
+moving B
+moving N
+moving Q
+moving B
+
+Q H Z R W C 
+
+Z S W H F N G C F L L Z 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+P W 
+
+
+H 
+32:'move 1 from 9 to 1' 
+moving H
+H 
+Q H Z R W C 
+
+Z S W H F N G C F L L Z 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+P W 
+
+
+
+33:'move 4 from 4 to 1' 
+moving Z
+moving L
+moving L
+moving F
+H Z L L F 
+Q H Z R W C 
+
+Z S W H F N G C 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+P W 
+
+
+
+34:'move 2 from 6 to 2' 
+moving W
+moving P
+H Z L L F 
+Q H Z R W C W P 
+
+Z S W H F N G C 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+
+
+
+
+35:'move 2 from 1 to 6' 
+moving F
+moving L
+H Z L 
+Q H Z R W C W P 
+
+Z S W H F N G C 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+F L 
+
+
+
+36:'move 7 from 4 to 2' 
+moving C
+moving G
+moving N
+moving F
+moving H
+moving W
+moving S
+H Z L 
+Q H Z R W C W P C G N F H W S 
+
+Z 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+F L 
+
+
+
+37:'move 14 from 2 to 9' 
+moving S
+moving W
+moving H
+moving F
+moving N
+moving G
+moving C
+moving P
+moving W
+moving C
+moving W
+moving R
+moving Z
+moving H
+H Z L 
+Q 
+
+Z 
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+F L 
+
+
+S W H F N G C P W C W R Z H 
+38:'move 1 from 4 to 1' 
+moving Z
+H Z L Z 
+Q 
+
+
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+F L 
+
+
+S W H F N G C P W C W R Z H 
+39:'move 1 from 1 to 2' 
+moving Z
+H Z L 
+Q Z 
+
+
+G F W L N Q P C Z N B M W J R Q G R D B V T M T J F C Q J V W B N Q B 
+F L 
+
+
+S W H F N G C P W C W R Z H 
+40:'move 18 from 5 to 6' 
+moving B
+moving Q
+moving N
+moving B
+moving W
+moving V
+moving J
+moving Q
+moving C
+moving F
+moving J
+moving T
+moving M
+moving T
+moving V
+moving B
+moving D
+moving R
+H Z L 
+Q Z 
+
+
+G F W L N Q P C Z N B M W J R Q G 
+F L B Q N B W V J Q C F J T M T V B D R 
+
+
+S W H F N G C P W C W R Z H 
+41:'move 2 from 2 to 6' 
+moving Z
+moving Q
+H Z L 
+
+
+
+G F W L N Q P C Z N B M W J R Q G 
+F L B Q N B W V J Q C F J T M T V B D R Z Q 
+
+
+S W H F N G C P W C W R Z H 
+42:'move 1 from 9 to 7' 
+moving H
+H Z L 
+
+
+
+G F W L N Q P C Z N B M W J R Q G 
+F L B Q N B W V J Q C F J T M T V B D R Z Q 
+H 
+
+S W H F N G C P W C W R Z 
+43:'move 8 from 9 to 2' 
+moving Z
+moving R
+moving W
+moving C
+moving W
+moving P
+moving C
+moving G
+H Z L 
+Z R W C W P C G 
+
+
+G F W L N Q P C Z N B M W J R Q G 
+F L B Q N B W V J Q C F J T M T V B D R Z Q 
+H 
+
+S W H F N 
+44:'move 15 from 6 to 5' 
+moving Q
+moving Z
+moving R
+moving D
+moving B
+moving V
+moving T
+moving M
+moving T
+moving J
+moving F
+moving C
+moving Q
+moving J
+moving V
+H Z L 
+Z R W C W P C G 
+
+
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V 
+F L B Q N B W 
+H 
+
+S W H F N 
+45:'move 1 from 6 to 3' 
+moving W
+H Z L 
+Z R W C W P C G 
+W 
+
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V 
+F L B Q N B 
+H 
+
+S W H F N 
+46:'move 3 from 2 to 5' 
+moving G
+moving C
+moving P
+H Z L 
+Z R W C W 
+W 
+
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P 
+F L B Q N B 
+H 
+
+S W H F N 
+47:'move 1 from 7 to 5' 
+moving H
+H Z L 
+Z R W C W 
+W 
+
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P H 
+F L B Q N B 
+
+
+S W H F N 
+48:'move 2 from 1 to 3' 
+moving L
+moving Z
+H 
+Z R W C W 
+W L Z 
+
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P H 
+F L B Q N B 
+
+
+S W H F N 
+49:'move 3 from 2 to 1' 
+moving W
+moving C
+moving W
+H W C W 
+Z R 
+W L Z 
+
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P H 
+F L B Q N B 
+
+
+S W H F N 
+50:'move 1 from 6 to 4' 
+moving B
+H W C W 
+Z R 
+W L Z 
+B 
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P H 
+F L B Q N 
+
+
+S W H F N 
+51:'move 5 from 6 to 5' 
+moving N
+moving Q
+moving B
+moving L
+moving F
+H W C W 
+Z R 
+W L Z 
+B 
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P H N Q B L F 
+
+
+
+S W H F N 
+52:'move 2 from 2 to 9' 
+moving R
+moving Z
+H W C W 
+
+W L Z 
+B 
+G F W L N Q P C Z N B M W J R Q G Q Z R D B V T M T J F C Q J V G C P H N Q B L F 
+
+
+
+S W H F N R Z 
+53:'move 35 from 5 to 7' 
+moving F
+moving L
+moving B
+moving Q
+moving N
+moving H
+moving P
+moving C
+moving G
+moving V
+moving J
+moving Q
+moving C
+moving F
+moving J
+moving T
+moving M
+moving T
+moving V
+moving B
+moving D
+moving R
+moving Z
+moving Q
+moving G
+moving Q
+moving R
+moving J
+moving W
+moving M
+moving B
+moving N
+moving Z
+moving C
+moving P
+H W C W 
+
+W L Z 
+B 
+G F W L N Q 
+
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W M B N Z C P 
+
+S W H F N R Z 
+54:'move 4 from 9 to 3' 
+moving Z
+moving R
+moving N
+moving F
+H W C W 
+
+W L Z Z R N F 
+B 
+G F W L N Q 
+
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W M B N Z C P 
+
+S W H 
+55:'move 1 from 4 to 1' 
+moving B
+H W C W B 
+
+W L Z Z R N F 
+
+G F W L N Q 
+
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W M B N Z C P 
+
+S W H 
+56:'move 5 from 1 to 7' 
+moving B
+moving W
+moving C
+moving W
+moving H
+
+
+W L Z Z R N F 
+
+G F W L N Q 
+
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W M B N Z C P B W C W H 
+
+S W H 
+57:'move 6 from 5 to 3' 
+moving Q
+moving N
+moving L
+moving W
+moving F
+moving G
+
+
+W L Z Z R N F Q N L W F G 
+
+
+
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W M B N Z C P B W C W H 
+
+S W H 
+58:'move 1 from 9 to 4' 
+moving H
+
+
+W L Z Z R N F Q N L W F G 
+H 
+
+
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W M B N Z C P B W C W H 
+
+S W 
+59:'move 11 from 7 to 6' 
+moving H
+moving W
+moving C
+moving W
+moving B
+moving P
+moving C
+moving Z
+moving N
+moving B
+moving M
+
+
+W L Z Z R N F Q N L W F G 
+H 
+
+H W C W B P C Z N B M 
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W 
+
+S W 
+60:'move 2 from 9 to 2' 
+moving W
+moving S
+
+W S 
+W L Z Z R N F Q N L W F G 
+H 
+
+H W C W B P C Z N B M 
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W 
+
+
+61:'move 1 from 4 to 7' 
+moving H
+
+W S 
+W L Z Z R N F Q N L W F G 
+
+
+H W C W B P C Z N B M 
+F L B Q N H P C G V J Q C F J T M T V B D R Z Q G Q R J W H 
+
+
+62:'move 14 from 7 to 4' 
+moving H
+moving W
+moving J
+moving R
+moving Q
+moving G
+moving Q
+moving Z
+moving R
+moving D
+moving B
+moving V
+moving T
+moving M
+
+W S 
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z R D B V T M 
+
+H W C W B P C Z N B M 
+F L B Q N H P C G V J Q C F J T 
+
+
+63:'move 5 from 6 to 9' 
+moving M
+moving B
+moving N
+moving Z
+moving C
+
+W S 
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z R D B V T M 
+
+H W C W B P 
+F L B Q N H P C G V J Q C F J T 
+
+M B N Z C 
+64:'move 2 from 2 to 4' 
+moving S
+moving W
+
+
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z R D B V T M S W 
+
+H W C W B P 
+F L B Q N H P C G V J Q C F J T 
+
+M B N Z C 
+65:'move 6 from 7 to 9' 
+moving T
+moving J
+moving F
+moving C
+moving Q
+moving J
+
+
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z R D B V T M S W 
+
+H W C W B P 
+F L B Q N H P C G V 
+
+M B N Z C T J F C Q J 
+66:'move 2 from 9 to 5' 
+moving J
+moving Q
+
+
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z R D B V T M S W 
+J Q 
+H W C W B P 
+F L B Q N H P C G V 
+
+M B N Z C T J F C 
+67:'move 6 from 9 to 5' 
+moving C
+moving F
+moving J
+moving T
+moving C
+moving Z
+
+
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z R D B V T M S W 
+J Q C F J T C Z 
+H W C W B P 
+F L B Q N H P C G V 
+
+M B N 
+68:'move 8 from 4 to 9' 
+moving W
+moving S
+moving M
+moving T
+moving V
+moving B
+moving D
+moving R
+
+
+W L Z Z R N F Q N L W F G 
+H W J R Q G Q Z 
+J Q C F J T C Z 
+H W C W B P 
+F L B Q N H P C G V 
+
+M B N W S M T V B D R 
+69:'move 5 from 4 to 3' 
+moving Z
+moving Q
+moving G
+moving Q
+moving R
+
+
+W L Z Z R N F Q N L W F G Z Q G Q R 
+H W J 
+J Q C F J T C Z 
+H W C W B P 
+F L B Q N H P C G V 
+
+M B N W S M T V B D R 
+70:'move 3 from 5 to 7' 
+moving Z
+moving C
+moving T
+
+
+W L Z Z R N F Q N L W F G Z Q G Q R 
+H W J 
+J Q C F J 
+H W C W B P 
+F L B Q N H P C G V Z C T 
+
+M B N W S M T V B D R 
+71:'move 1 from 3 to 9' 
+moving R
+
+
+W L Z Z R N F Q N L W F G Z Q G Q 
+H W J 
+J Q C F J 
+H W C W B P 
+F L B Q N H P C G V Z C T 
+
+M B N W S M T V B D R R 
+72:'move 5 from 3 to 4' 
+moving Q
+moving G
+moving Q
+moving Z
+moving G
+
+
+W L Z Z R N F Q N L W F 
+H W J Q G Q Z G 
+J Q C F J 
+H W C W B P 
+F L B Q N H P C G V Z C T 
+
+M B N W S M T V B D R R 
+73:'move 7 from 9 to 8' 
+moving R
+moving R
+moving D
+moving B
+moving V
+moving T
+moving M
+
+
+W L Z Z R N F Q N L W F 
+H W J Q G Q Z G 
+J Q C F J 
+H W C W B P 
+F L B Q N H P C G V Z C T 
+R R D B V T M 
+M B N W S 
+74:'move 2 from 7 to 4' 
+moving T
+moving C
+
+
+W L Z Z R N F Q N L W F 
+H W J Q G Q Z G T C 
+J Q C F J 
+H W C W B P 
+F L B Q N H P C G V Z 
+R R D B V T M 
+M B N W S 
+75:'move 4 from 5 to 7' 
+moving J
+moving F
+moving C
+moving Q
+
+
+W L Z Z R N F Q N L W F 
+H W J Q G Q Z G T C 
+J 
+H W C W B P 
+F L B Q N H P C G V Z J F C Q 
+R R D B V T M 
+M B N W S 
+76:'move 1 from 5 to 3' 
+moving J
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q Z G T C 
+
+H W C W B P 
+F L B Q N H P C G V Z J F C Q 
+R R D B V T M 
+M B N W S 
+77:'move 5 from 6 to 4' 
+moving P
+moving B
+moving W
+moving C
+moving W
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q Z G T C P B W C W 
+
+H 
+F L B Q N H P C G V Z J F C Q 
+R R D B V T M 
+M B N W S 
+78:'move 8 from 4 to 8' 
+moving W
+moving C
+moving W
+moving B
+moving P
+moving C
+moving T
+moving G
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q Z 
+
+H 
+F L B Q N H P C G V Z J F C Q 
+R R D B V T M W C W B P C T G 
+M B N W S 
+79:'move 5 from 7 to 6' 
+moving Q
+moving C
+moving F
+moving J
+moving Z
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q Z 
+
+H Q C F J Z 
+F L B Q N H P C G V 
+R R D B V T M W C W B P C T G 
+M B N W S 
+80:'move 1 from 4 to 7' 
+moving Z
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q 
+
+H Q C F J Z 
+F L B Q N H P C G V Z 
+R R D B V T M W C W B P C T G 
+M B N W S 
+81:'move 3 from 6 to 9' 
+moving Z
+moving J
+moving F
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q 
+
+H Q C 
+F L B Q N H P C G V Z 
+R R D B V T M W C W B P C T G 
+M B N W S Z J F 
+82:'move 2 from 6 to 5' 
+moving C
+moving Q
+
+
+W L Z Z R N F Q N L W F J 
+H W J Q G Q 
+C Q 
+H 
+F L B Q N H P C G V Z 
+R R D B V T M W C W B P C T G 
+M B N W S Z J F 
+83:'move 7 from 8 to 3' 
+moving G
+moving T
+moving C
+moving P
+moving B
+moving W
+moving C
+
+
+W L Z Z R N F Q N L W F J G T C P B W C 
+H W J Q G Q 
+C Q 
+H 
+F L B Q N H P C G V Z 
+R R D B V T M W 
+M B N W S Z J F 
+84:'move 2 from 5 to 9' 
+moving Q
+moving C
+
+
+W L Z Z R N F Q N L W F J G T C P B W C 
+H W J Q G Q 
+
+H 
+F L B Q N H P C G V Z 
+R R D B V T M W 
+M B N W S Z J F Q C 
+85:'move 17 from 3 to 1' 
+moving C
+moving W
+moving B
+moving P
+moving C
+moving T
+moving G
+moving J
+moving F
+moving W
+moving L
+moving N
+moving Q
+moving F
+moving N
+moving R
+moving Z
+C W B P C T G J F W L N Q F N R Z 
+
+W L Z 
+H W J Q G Q 
+
+H 
+F L B Q N H P C G V Z 
+R R D B V T M W 
+M B N W S Z J F Q C 
+86:'move 3 from 1 to 3' 
+moving Z
+moving R
+moving N
+C W B P C T G J F W L N Q F 
+
+W L Z Z R N 
+H W J Q G Q 
+
+H 
+F L B Q N H P C G V Z 
+R R D B V T M W 
+M B N W S Z J F Q C 
+87:'move 6 from 8 to 9' 
+moving W
+moving M
+moving T
+moving V
+moving B
+moving D
+C W B P C T G J F W L N Q F 
+
+W L Z Z R N 
+H W J Q G Q 
+
+H 
+F L B Q N H P C G V Z 
+R R 
+M B N W S Z J F Q C W M T V B D 
+88:'move 4 from 4 to 7' 
+moving Q
+moving G
+moving Q
+moving J
+C W B P C T G J F W L N Q F 
+
+W L Z Z R N 
+H W 
+
+H 
+F L B Q N H P C G V Z Q G Q J 
+R R 
+M B N W S Z J F Q C W M T V B D 
+89:'move 6 from 3 to 5' 
+moving N
+moving R
+moving Z
+moving Z
+moving L
+moving W
+C W B P C T G J F W L N Q F 
+
+
+H W 
+N R Z Z L W 
+H 
+F L B Q N H P C G V Z Q G Q J 
+R R 
+M B N W S Z J F Q C W M T V B D 
+90:'move 2 from 8 to 5' 
+moving R
+moving R
+C W B P C T G J F W L N Q F 
+
+
+H W 
+N R Z Z L W R R 
+H 
+F L B Q N H P C G V Z Q G Q J 
+
+M B N W S Z J F Q C W M T V B D 
+91:'move 14 from 7 to 5' 
+moving J
+moving Q
+moving G
+moving Q
+moving Z
+moving V
+moving G
+moving C
+moving P
+moving H
+moving N
+moving Q
+moving B
+moving L
+C W B P C T G J F W L N Q F 
+
+
+H W 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+H 
+F 
+
+M B N W S Z J F Q C W M T V B D 
+92:'move 2 from 4 to 5' 
+moving W
+moving H
+C W B P C T G J F W L N Q F 
+
+
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L W H 
+H 
+F 
+
+M B N W S Z J F Q C W M T V B D 
+93:'move 6 from 9 to 5' 
+moving D
+moving B
+moving V
+moving T
+moving M
+moving W
+C W B P C T G J F W L N Q F 
+
+
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L W H D B V T M W 
+H 
+F 
+
+M B N W S Z J F Q C 
+94:'move 1 from 7 to 9' 
+moving F
+C W B P C T G J F W L N Q F 
+
+
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L W H D B V T M W 
+H 
+
+
+M B N W S Z J F Q C F 
+95:'move 1 from 6 to 9' 
+moving H
+C W B P C T G J F W L N Q F 
+
+
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L W H D B V T M W 
+
+
+
+M B N W S Z J F Q C F H 
+96:'move 8 from 1 to 9' 
+moving F
+moving Q
+moving N
+moving L
+moving W
+moving F
+moving J
+moving G
+C W B P C T 
+
+
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L W H D B V T M W 
+
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+97:'move 8 from 5 to 2' 
+moving W
+moving M
+moving T
+moving V
+moving B
+moving D
+moving H
+moving W
+C W B P C T 
+W M T V B D H W 
+
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+98:'move 2 from 1 to 3' 
+moving T
+moving C
+C W B P 
+W M T V B D H W 
+T C 
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+99:'move 7 from 2 to 6' 
+moving W
+moving H
+moving D
+moving B
+moving V
+moving T
+moving M
+C W B P 
+W 
+T C 
+
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M 
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+100:'move 2 from 3 to 4' 
+moving C
+moving T
+C W B P 
+W 
+
+C T 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M 
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+101:'move 1 from 2 to 6' 
+moving W
+C W B P 
+
+
+C T 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W 
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+102:'move 3 from 1 to 6' 
+moving P
+moving B
+moving W
+C 
+
+
+C T 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B W 
+
+
+M B N W S Z J F Q C F H F Q N L W F J G 
+103:'move 16 from 9 to 4' 
+moving G
+moving J
+moving F
+moving W
+moving L
+moving N
+moving Q
+moving F
+moving H
+moving F
+moving C
+moving Q
+moving F
+moving J
+moving Z
+moving S
+C 
+
+
+C T G J F W L N Q F H F C Q F J Z S 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B W 
+
+
+M B N W 
+104:'move 2 from 9 to 8' 
+moving W
+moving N
+C 
+
+
+C T G J F W L N Q F H F C Q F J Z S 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B W 
+
+W N 
+M B 
+105:'move 1 from 1 to 6' 
+moving C
+
+
+
+C T G J F W L N Q F H F C Q F J Z S 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B W C 
+
+W N 
+M B 
+106:'move 2 from 9 to 4' 
+moving B
+moving M
+
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B W C 
+
+W N 
+
+107:'move 1 from 6 to 9' 
+moving C
+
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B W 
+
+W N 
+C 
+108:'move 1 from 6 to 1' 
+moving W
+W 
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B 
+
+W N 
+C 
+109:'move 1 from 1 to 7' 
+moving W
+
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P B 
+W 
+W N 
+C 
+110:'move 1 from 6 to 9' 
+moving B
+
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P 
+W 
+W N 
+C B 
+111:'move 1 from 9 to 3' 
+moving B
+
+
+B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P 
+W 
+W N 
+C 
+112:'move 1 from 3 to 8' 
+moving B
+
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P 
+W 
+W N B 
+C 
+113:'move 1 from 9 to 2' 
+moving C
+
+C 
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P 
+W 
+W N B 
+
+114:'move 1 from 2 to 7' 
+moving C
+
+
+
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q B L 
+W H D B V T M W P 
+W C 
+W N B 
+
+115:'move 2 from 5 to 3' 
+moving L
+moving B
+
+
+L B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z V G C P H N Q 
+W H D B V T M W P 
+W C 
+W N B 
+
+116:'move 7 from 5 to 8' 
+moving Q
+moving N
+moving H
+moving P
+moving C
+moving G
+moving V
+
+
+L B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z 
+W H D B V T M W P 
+W C 
+W N B Q N H P C G V 
+
+117:'move 2 from 7 to 9' 
+moving C
+moving W
+
+
+L B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z 
+W H D B V T M W P 
+
+W N B Q N H P C G V 
+C W 
+118:'move 1 from 6 to 7' 
+moving P
+
+
+L B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z 
+W H D B V T M W 
+P 
+W N B Q N H P C G V 
+C W 
+119:'move 3 from 6 to 9' 
+moving W
+moving M
+moving T
+
+
+L B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z 
+W H D B V 
+P 
+W N B Q N H P C G V 
+C W W M T 
+120:'move 10 from 8 to 7' 
+moving V
+moving G
+moving C
+moving P
+moving H
+moving N
+moving Q
+moving B
+moving N
+moving W
+
+
+L B 
+C T G J F W L N Q F H F C Q F J Z S B M 
+N R Z Z L W R R J Q G Q Z 
+W H D B V 
+P V G C P H N Q B N W 
+
+C W W M T 
+121:'move 1 from 4 to 3' 
+moving M
+
+
+L B M 
+C T G J F W L N Q F H F C Q F J Z S B 
+N R Z Z L W R R J Q G Q Z 
+W H D B V 
+P V G C P H N Q B N W 
+
+C W W M T 
+122:'move 3 from 3 to 1' 
+moving M
+moving B
+moving L
+M B L 
+
+
+C T G J F W L N Q F H F C Q F J Z S B 
+N R Z Z L W R R J Q G Q Z 
+W H D B V 
+P V G C P H N Q B N W 
+
+C W W M T 
+123:'move 1 from 7 to 1' 
+moving W
+M B L W 
+
+
+C T G J F W L N Q F H F C Q F J Z S B 
+N R Z Z L W R R J Q G Q Z 
+W H D B V 
+P V G C P H N Q B N 
+
+C W W M T 
+124:'move 19 from 4 to 6' 
+moving B
+moving S
+moving Z
+moving J
+moving F
+moving Q
+moving C
+moving F
+moving H
+moving F
+moving Q
+moving N
+moving L
+moving W
+moving F
+moving J
+moving G
+moving T
+moving C
+M B L W 
+
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C F H F Q N L W F J G T C 
+P V G C P H N Q B N 
+
+C W W M T 
+125:'move 3 from 9 to 7' 
+moving T
+moving M
+moving W
+M B L W 
+
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C F H F Q N L W F J G T C 
+P V G C P H N Q B N T M W 
+
+C W 
+126:'move 1 from 9 to 2' 
+moving W
+M B L W 
+W 
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C F H F Q N L W F J G T C 
+P V G C P H N Q B N T M W 
+
+C 
+127:'move 2 from 1 to 7' 
+moving W
+moving L
+M B 
+W 
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C F H F Q N L W F J G T C 
+P V G C P H N Q B N T M W W L 
+
+C 
+128:'move 1 from 9 to 1' 
+moving C
+M B C 
+W 
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C F H F Q N L W F J G T C 
+P V G C P H N Q B N T M W W L 
+
+
+129:'move 12 from 6 to 9' 
+moving C
+moving T
+moving G
+moving J
+moving F
+moving W
+moving L
+moving N
+moving Q
+moving F
+moving H
+moving F
+M B C 
+W 
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C 
+P V G C P H N Q B N T M W W L 
+
+C T G J F W L N Q F H F 
+130:'move 2 from 7 to 1' 
+moving L
+moving W
+M B C L W 
+W 
+
+
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C 
+P V G C P H N Q B N T M W 
+
+C T G J F W L N Q F H F 
+131:'move 1 from 2 to 4' 
+moving W
+M B C L W 
+
+
+W 
+N R Z Z L W R R J Q G Q Z 
+W H D B V B S Z J F Q C 
+P V G C P H N Q B N T M W 
+
+C T G J F W L N Q F H F 
+132:'move 11 from 6 to 3' 
+moving C
+moving Q
+moving F
+moving J
+moving Z
+moving S
+moving B
+moving V
+moving B
+moving D
+moving H
+M B C L W 
+
+C Q F J Z S B V B D H 
+W 
+N R Z Z L W R R J Q G Q Z 
+W 
+P V G C P H N Q B N T M W 
+
+C T G J F W L N Q F H F 
+133:'move 1 from 4 to 8' 
+moving W
+M B C L W 
+
+C Q F J Z S B V B D H 
+
+N R Z Z L W R R J Q G Q Z 
+W 
+P V G C P H N Q B N T M W 
+W 
+C T G J F W L N Q F H F 
+134:'move 1 from 6 to 8' 
+moving W
+M B C L W 
+
+C Q F J Z S B V B D H 
+
+N R Z Z L W R R J Q G Q Z 
+
+P V G C P H N Q B N T M W 
+W W 
+C T G J F W L N Q F H F 
+135:'move 11 from 7 to 9' 
+moving W
+moving M
+moving T
+moving N
+moving B
+moving Q
+moving N
+moving H
+moving P
+moving C
+moving G
+M B C L W 
+
+C Q F J Z S B V B D H 
+
+N R Z Z L W R R J Q G Q Z 
+
+P V 
+W W 
+C T G J F W L N Q F H F W M T N B Q N H P C G 
+136:'move 2 from 8 to 9' 
+moving W
+moving W
+M B C L W 
+
+C Q F J Z S B V B D H 
+
+N R Z Z L W R R J Q G Q Z 
+
+P V 
+
+C T G J F W L N Q F H F W M T N B Q N H P C G W W 
+137:'move 18 from 9 to 6' 
+moving W
+moving W
+moving G
+moving C
+moving P
+moving H
+moving N
+moving Q
+moving B
+moving N
+moving T
+moving M
+moving W
+moving F
+moving H
+moving F
+moving Q
+moving N
+M B C L W 
+
+C Q F J Z S B V B D H 
+
+N R Z Z L W R R J Q G Q Z 
+W W G C P H N Q B N T M W F H F Q N 
+P V 
+
+C T G J F W L 
+138:'move 5 from 3 to 7' 
+moving H
+moving D
+moving B
+moving V
+moving B
+M B C L W 
+
+C Q F J Z S 
+
+N R Z Z L W R R J Q G Q Z 
+W W G C P H N Q B N T M W F H F Q N 
+P V H D B V B 
+
+C T G J F W L 
+139:'move 5 from 3 to 8' 
+moving S
+moving Z
+moving J
+moving F
+moving Q
+M B C L W 
+
+C 
+
+N R Z Z L W R R J Q G Q Z 
+W W G C P H N Q B N T M W F H F Q N 
+P V H D B V B 
+S Z J F Q 
+C T G J F W L 
+140:'move 11 from 5 to 6' 
+moving Z
+moving Q
+moving G
+moving Q
+moving J
+moving R
+moving R
+moving W
+moving L
+moving Z
+moving Z
+M B C L W 
+
+C 
+
+N R 
+W W G C P H N Q B N T M W F H F Q N Z Q G Q J R R W L Z Z 
+P V H D B V B 
+S Z J F Q 
+C T G J F W L 
+141:'move 26 from 6 to 4' 
+moving Z
+moving Z
+moving L
+moving W
+moving R
+moving R
+moving J
+moving Q
+moving G
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving H
+moving F
+moving W
+moving M
+moving T
+moving N
+moving B
+moving Q
+moving N
+moving H
+moving P
+moving C
+M B C L W 
+
+C 
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R 
+W W G 
+P V H D B V B 
+S Z J F Q 
+C T G J F W L 
+142:'move 1 from 6 to 5' 
+moving G
+M B C L W 
+
+C 
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R G 
+W W 
+P V H D B V B 
+S Z J F Q 
+C T G J F W L 
+143:'move 1 from 3 to 7' 
+moving C
+M B C L W 
+
+
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R G 
+W W 
+P V H D B V B C 
+S Z J F Q 
+C T G J F W L 
+144:'move 3 from 8 to 3' 
+moving Q
+moving F
+moving J
+M B C L W 
+
+Q F J 
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R G 
+W W 
+P V H D B V B C 
+S Z 
+C T G J F W L 
+145:'move 1 from 8 to 7' 
+moving Z
+M B C L W 
+
+Q F J 
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R G 
+W W 
+P V H D B V B C Z 
+S 
+C T G J F W L 
+146:'move 3 from 3 to 6' 
+moving J
+moving F
+moving Q
+M B C L W 
+
+
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R G 
+W W J F Q 
+P V H D B V B C Z 
+S 
+C T G J F W L 
+147:'move 5 from 9 to 3' 
+moving L
+moving W
+moving F
+moving J
+moving G
+M B C L W 
+
+L W F J G 
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P C 
+N R G 
+W W J F Q 
+P V H D B V B C Z 
+S 
+C T 
+148:'move 1 from 4 to 9' 
+moving C
+M B C L W 
+
+L W F J G 
+Z Z L W R R J Q G Q Z N Q F H F W M T N B Q N H P 
+N R G 
+W W J F Q 
+P V H D B V B C Z 
+S 
+C T C 
+149:'move 8 from 4 to 5' 
+moving P
+moving H
+moving N
+moving Q
+moving B
+moving N
+moving T
+moving M
+M B C L W 
+
+L W F J G 
+Z Z L W R R J Q G Q Z N Q F H F W 
+N R G P H N Q B N T M 
+W W J F Q 
+P V H D B V B C Z 
+S 
+C T C 
+150:'move 2 from 7 to 8' 
+moving Z
+moving C
+M B C L W 
+
+L W F J G 
+Z Z L W R R J Q G Q Z N Q F H F W 
+N R G P H N Q B N T M 
+W W J F Q 
+P V H D B V B 
+S Z C 
+C T C 
+151:'move 3 from 3 to 6' 
+moving G
+moving J
+moving F
+M B C L W 
+
+L W 
+Z Z L W R R J Q G Q Z N Q F H F W 
+N R G P H N Q B N T M 
+W W J F Q G J F 
+P V H D B V B 
+S Z C 
+C T C 
+152:'move 3 from 4 to 6' 
+moving W
+moving F
+moving H
+M B C L W 
+
+L W 
+Z Z L W R R J Q G Q Z N Q F 
+N R G P H N Q B N T M 
+W W J F Q G J F W F H 
+P V H D B V B 
+S Z C 
+C T C 
+153:'move 7 from 7 to 4' 
+moving B
+moving V
+moving B
+moving D
+moving H
+moving V
+moving P
+M B C L W 
+
+L W 
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N Q B N T M 
+W W J F Q G J F W F H 
+
+S Z C 
+C T C 
+154:'move 1 from 9 to 1' 
+moving C
+M B C L W C 
+
+L W 
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N Q B N T M 
+W W J F Q G J F W F H 
+
+S Z C 
+C T 
+155:'move 5 from 5 to 3' 
+moving M
+moving T
+moving N
+moving B
+moving Q
+M B C L W C 
+
+L W M T N B Q 
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N 
+W W J F Q G J F W F H 
+
+S Z C 
+C T 
+156:'move 2 from 9 to 7' 
+moving T
+moving C
+M B C L W C 
+
+L W M T N B Q 
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N 
+W W J F Q G J F W F H 
+T C 
+S Z C 
+
+157:'move 3 from 8 to 2' 
+moving C
+moving Z
+moving S
+M B C L W C 
+C Z S 
+L W M T N B Q 
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N 
+W W J F Q G J F W F H 
+T C 
+
+
+158:'move 7 from 3 to 7' 
+moving Q
+moving B
+moving N
+moving T
+moving M
+moving W
+moving L
+M B C L W C 
+C Z S 
+
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N 
+W W J F Q G J F W F H 
+T C Q B N T M W L 
+
+
+159:'move 1 from 7 to 6' 
+moving L
+M B C L W C 
+C Z S 
+
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G P H N 
+W W J F Q G J F W F H L 
+T C Q B N T M W 
+
+
+160:'move 3 from 5 to 6' 
+moving N
+moving H
+moving P
+M B C L W C 
+C Z S 
+
+Z Z L W R R J Q G Q Z N Q F B V B D H V P 
+N R G 
+W W J F Q G J F W F H L N H P 
+T C Q B N T M W 
+
+
+161:'move 7 from 4 to 8' 
+moving P
+moving V
+moving H
+moving D
+moving B
+moving V
+moving B
+M B C L W C 
+C Z S 
+
+Z Z L W R R J Q G Q Z N Q F 
+N R G 
+W W J F Q G J F W F H L N H P 
+T C Q B N T M W 
+P V H D B V B 
+
+162:'move 10 from 4 to 5' 
+moving F
+moving Q
+moving N
+moving Z
+moving Q
+moving G
+moving Q
+moving J
+moving R
+moving R
+M B C L W C 
+C Z S 
+
+Z Z L W 
+N R G F Q N Z Q G Q J R R 
+W W J F Q G J F W F H L N H P 
+T C Q B N T M W 
+P V H D B V B 
+
+163:'move 2 from 4 to 2' 
+moving W
+moving L
+M B C L W C 
+C Z S W L 
+
+Z Z 
+N R G F Q N Z Q G Q J R R 
+W W J F Q G J F W F H L N H P 
+T C Q B N T M W 
+P V H D B V B 
+
+164:'move 3 from 7 to 5' 
+moving W
+moving M
+moving T
+M B C L W C 
+C Z S W L 
+
+Z Z 
+N R G F Q N Z Q G Q J R R W M T 
+W W J F Q G J F W F H L N H P 
+T C Q B N 
+P V H D B V B 
+
+165:'move 2 from 4 to 1' 
+moving Z
+moving Z
+M B C L W C Z Z 
+C Z S W L 
+
+
+N R G F Q N Z Q G Q J R R W M T 
+W W J F Q G J F W F H L N H P 
+T C Q B N 
+P V H D B V B 
+
+166:'move 6 from 8 to 5' 
+moving B
+moving V
+moving B
+moving D
+moving H
+moving V
+M B C L W C Z Z 
+C Z S W L 
+
+
+N R G F Q N Z Q G Q J R R W M T B V B D H V 
+W W J F Q G J F W F H L N H P 
+T C Q B N 
+P 
+
+167:'move 5 from 1 to 4' 
+moving Z
+moving Z
+moving C
+moving W
+moving L
+M B C 
+C Z S W L 
+
+Z Z C W L 
+N R G F Q N Z Q G Q J R R W M T B V B D H V 
+W W J F Q G J F W F H L N H P 
+T C Q B N 
+P 
+
+168:'move 5 from 4 to 2' 
+moving L
+moving W
+moving C
+moving Z
+moving Z
+M B C 
+C Z S W L L W C Z Z 
+
+
+N R G F Q N Z Q G Q J R R W M T B V B D H V 
+W W J F Q G J F W F H L N H P 
+T C Q B N 
+P 
+
+169:'move 5 from 7 to 8' 
+moving N
+moving B
+moving Q
+moving C
+moving T
+M B C 
+C Z S W L L W C Z Z 
+
+
+N R G F Q N Z Q G Q J R R W M T B V B D H V 
+W W J F Q G J F W F H L N H P 
+
+P N B Q C T 
+
+170:'move 10 from 2 to 8' 
+moving Z
+moving Z
+moving C
+moving W
+moving L
+moving L
+moving W
+moving S
+moving Z
+moving C
+M B C 
+
+
+
+N R G F Q N Z Q G Q J R R W M T B V B D H V 
+W W J F Q G J F W F H L N H P 
+
+P N B Q C T Z Z C W L L W S Z C 
+
+171:'move 3 from 8 to 3' 
+moving C
+moving Z
+moving S
+M B C 
+
+C Z S 
+
+N R G F Q N Z Q G Q J R R W M T B V B D H V 
+W W J F Q G J F W F H L N H P 
+
+P N B Q C T Z Z C W L L W 
+
+172:'move 2 from 5 to 3' 
+moving V
+moving H
+M B C 
+
+C Z S V H 
+
+N R G F Q N Z Q G Q J R R W M T B V B D 
+W W J F Q G J F W F H L N H P 
+
+P N B Q C T Z Z C W L L W 
+
+173:'move 13 from 6 to 1' 
+moving P
+moving H
+moving N
+moving L
+moving H
+moving F
+moving W
+moving F
+moving J
+moving G
+moving Q
+moving F
+moving J
+M B C P H N L H F W F J G Q F J 
+
+C Z S V H 
+
+N R G F Q N Z Q G Q J R R W M T B V B D 
+W W 
+
+P N B Q C T Z Z C W L L W 
+
+174:'move 19 from 5 to 3' 
+moving D
+moving B
+moving V
+moving B
+moving T
+moving M
+moving W
+moving R
+moving R
+moving J
+moving Q
+moving G
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving G
+moving R
+M B C P H N L H F W F J G Q F J 
+
+C Z S V H D B V B T M W R R J Q G Q Z N Q F G R 
+
+N 
+W W 
+
+P N B Q C T Z Z C W L L W 
+
+175:'move 12 from 3 to 9' 
+moving R
+moving G
+moving F
+moving Q
+moving N
+moving Z
+moving Q
+moving G
+moving Q
+moving J
+moving R
+moving R
+M B C P H N L H F W F J G Q F J 
+
+C Z S V H D B V B T M W 
+
+N 
+W W 
+
+P N B Q C T Z Z C W L L W 
+R G F Q N Z Q G Q J R R 
+176:'move 4 from 8 to 2' 
+moving W
+moving L
+moving L
+moving W
+M B C P H N L H F W F J G Q F J 
+W L L W 
+C Z S V H D B V B T M W 
+
+N 
+W W 
+
+P N B Q C T Z Z C 
+R G F Q N Z Q G Q J R R 
+177:'move 2 from 6 to 7' 
+moving W
+moving W
+M B C P H N L H F W F J G Q F J 
+W L L W 
+C Z S V H D B V B T M W 
+
+N 
+
+W W 
+P N B Q C T Z Z C 
+R G F Q N Z Q G Q J R R 
+178:'move 5 from 8 to 7' 
+moving C
+moving Z
+moving Z
+moving T
+moving C
+M B C P H N L H F W F J G Q F J 
+W L L W 
+C Z S V H D B V B T M W 
+
+N 
+
+W W C Z Z T C 
+P N B Q 
+R G F Q N Z Q G Q J R R 
+179:'move 9 from 3 to 9' 
+moving W
+moving M
+moving T
+moving B
+moving V
+moving B
+moving D
+moving H
+moving V
+M B C P H N L H F W F J G Q F J 
+W L L W 
+C Z S 
+
+N 
+
+W W C Z Z T C 
+P N B Q 
+R G F Q N Z Q G Q J R R W M T B V B D H V 
+180:'move 1 from 5 to 9' 
+moving N
+M B C P H N L H F W F J G Q F J 
+W L L W 
+C Z S 
+
+
+
+W W C Z Z T C 
+P N B Q 
+R G F Q N Z Q G Q J R R W M T B V B D H V N 
+181:'move 2 from 7 to 6' 
+moving C
+moving T
+M B C P H N L H F W F J G Q F J 
+W L L W 
+C Z S 
+
+
+C T 
+W W C Z Z 
+P N B Q 
+R G F Q N Z Q G Q J R R W M T B V B D H V N 
+182:'move 3 from 2 to 3' 
+moving W
+moving L
+moving L
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L 
+
+
+C T 
+W W C Z Z 
+P N B Q 
+R G F Q N Z Q G Q J R R W M T B V B D H V N 
+183:'move 15 from 9 to 3' 
+moving N
+moving V
+moving H
+moving D
+moving B
+moving V
+moving B
+moving T
+moving M
+moving W
+moving R
+moving R
+moving J
+moving Q
+moving G
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L N V H D B V B T M W R R J Q G 
+
+
+C T 
+W W C Z Z 
+P N B Q 
+R G F Q N Z Q 
+184:'move 13 from 3 to 5' 
+moving G
+moving Q
+moving J
+moving R
+moving R
+moving W
+moving M
+moving T
+moving B
+moving V
+moving B
+moving D
+moving H
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L N V 
+
+G Q J R R W M T B V B D H 
+C T 
+W W C Z Z 
+P N B Q 
+R G F Q N Z Q 
+185:'move 1 from 6 to 2' 
+moving T
+M B C P H N L H F W F J G Q F J 
+W T 
+C Z S W L L N V 
+
+G Q J R R W M T B V B D H 
+C 
+W W C Z Z 
+P N B Q 
+R G F Q N Z Q 
+186:'move 5 from 5 to 8' 
+moving H
+moving D
+moving B
+moving V
+moving B
+M B C P H N L H F W F J G Q F J 
+W T 
+C Z S W L L N V 
+
+G Q J R R W M T 
+C 
+W W C Z Z 
+P N B Q H D B V B 
+R G F Q N Z Q 
+187:'move 1 from 2 to 5' 
+moving T
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L N V 
+
+G Q J R R W M T T 
+C 
+W W C Z Z 
+P N B Q H D B V B 
+R G F Q N Z Q 
+188:'move 1 from 7 to 6' 
+moving Z
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L N V 
+
+G Q J R R W M T T 
+C Z 
+W W C Z 
+P N B Q H D B V B 
+R G F Q N Z Q 
+189:'move 6 from 9 to 6' 
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving G
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L N V 
+
+G Q J R R W M T T 
+C Z Q Z N Q F G 
+W W C Z 
+P N B Q H D B V B 
+R 
+190:'move 6 from 6 to 8' 
+moving G
+moving F
+moving Q
+moving N
+moving Z
+moving Q
+M B C P H N L H F W F J G Q F J 
+W 
+C Z S W L L N V 
+
+G Q J R R W M T T 
+C Z 
+W W C Z 
+P N B Q H D B V B G F Q N Z Q 
+R 
+191:'move 4 from 7 to 1' 
+moving Z
+moving C
+moving W
+moving W
+M B C P H N L H F W F J G Q F J Z C W W 
+W 
+C Z S W L L N V 
+
+G Q J R R W M T T 
+C Z 
+
+P N B Q H D B V B G F Q N Z Q 
+R 
+192:'move 2 from 3 to 6' 
+moving V
+moving N
+M B C P H N L H F W F J G Q F J Z C W W 
+W 
+C Z S W L L 
+
+G Q J R R W M T T 
+C Z V N 
+
+P N B Q H D B V B G F Q N Z Q 
+R 
+193:'move 11 from 1 to 9' 
+moving W
+moving W
+moving C
+moving Z
+moving J
+moving F
+moving Q
+moving G
+moving J
+moving F
+moving W
+M B C P H N L H F 
+W 
+C Z S W L L 
+
+G Q J R R W M T T 
+C Z V N 
+
+P N B Q H D B V B G F Q N Z Q 
+R W W C Z J F Q G J F W 
+194:'move 1 from 2 to 3' 
+moving W
+M B C P H N L H F 
+
+C Z S W L L W 
+
+G Q J R R W M T T 
+C Z V N 
+
+P N B Q H D B V B G F Q N Z Q 
+R W W C Z J F Q G J F W 
+195:'move 4 from 5 to 6' 
+moving T
+moving T
+moving M
+moving W
+M B C P H N L H F 
+
+C Z S W L L W 
+
+G Q J R R 
+C Z V N T T M W 
+
+P N B Q H D B V B G F Q N Z Q 
+R W W C Z J F Q G J F W 
+196:'move 1 from 1 to 6' 
+moving F
+M B C P H N L H 
+
+C Z S W L L W 
+
+G Q J R R 
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q 
+R W W C Z J F Q G J F W 
+197:'move 10 from 9 to 2' 
+moving W
+moving F
+moving J
+moving G
+moving Q
+moving F
+moving J
+moving Z
+moving C
+moving W
+M B C P H N L H 
+W F J G Q F J Z C W 
+C Z S W L L W 
+
+G Q J R R 
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q 
+R W 
+198:'move 8 from 2 to 3' 
+moving W
+moving C
+moving Z
+moving J
+moving F
+moving Q
+moving G
+moving J
+M B C P H N L H 
+W F 
+C Z S W L L W W C Z J F Q G J 
+
+G Q J R R 
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q 
+R W 
+199:'move 3 from 1 to 2' 
+moving H
+moving L
+moving N
+M B C P H 
+W F H L N 
+C Z S W L L W W C Z J F Q G J 
+
+G Q J R R 
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q 
+R W 
+200:'move 8 from 3 to 1' 
+moving J
+moving G
+moving Q
+moving F
+moving J
+moving Z
+moving C
+moving W
+M B C P H J G Q F J Z C W 
+W F H L N 
+C Z S W L L W 
+
+G Q J R R 
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q 
+R W 
+201:'move 5 from 5 to 4' 
+moving R
+moving R
+moving J
+moving Q
+moving G
+M B C P H J G Q F J Z C W 
+W F H L N 
+C Z S W L L W 
+R R J Q G 
+
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q 
+R W 
+202:'move 1 from 9 to 8' 
+moving W
+M B C P H J G Q F J Z C W 
+W F H L N 
+C Z S W L L W 
+R R J Q G 
+
+C Z V N T T M W F 
+
+P N B Q H D B V B G F Q N Z Q W 
+R 
+203:'move 2 from 3 to 7' 
+moving W
+moving L
+M B C P H J G Q F J Z C W 
+W F H L N 
+C Z S W L 
+R R J Q G 
+
+C Z V N T T M W F 
+W L 
+P N B Q H D B V B G F Q N Z Q W 
+R 
+204:'move 2 from 4 to 5' 
+moving G
+moving Q
+M B C P H J G Q F J Z C W 
+W F H L N 
+C Z S W L 
+R R J 
+G Q 
+C Z V N T T M W F 
+W L 
+P N B Q H D B V B G F Q N Z Q W 
+R 
+205:'move 6 from 1 to 6' 
+moving W
+moving C
+moving Z
+moving J
+moving F
+moving Q
+M B C P H J G 
+W F H L N 
+C Z S W L 
+R R J 
+G Q 
+C Z V N T T M W F W C Z J F Q 
+W L 
+P N B Q H D B V B G F Q N Z Q W 
+R 
+206:'move 9 from 8 to 1' 
+moving W
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving G
+moving B
+moving V
+M B C P H J G W Q Z N Q F G B V 
+W F H L N 
+C Z S W L 
+R R J 
+G Q 
+C Z V N T T M W F W C Z J F Q 
+W L 
+P N B Q H D B 
+R 
+207:'move 16 from 1 to 9' 
+moving V
+moving B
+moving G
+moving F
+moving Q
+moving N
+moving Z
+moving Q
+moving W
+moving G
+moving J
+moving H
+moving P
+moving C
+moving B
+moving M
+
+W F H L N 
+C Z S W L 
+R R J 
+G Q 
+C Z V N T T M W F W C Z J F Q 
+W L 
+P N B Q H D B 
+R V B G F Q N Z Q W G J H P C B M 
+208:'move 2 from 7 to 3' 
+moving L
+moving W
+
+W F H L N 
+C Z S W L L W 
+R R J 
+G Q 
+C Z V N T T M W F W C Z J F Q 
+
+P N B Q H D B 
+R V B G F Q N Z Q W G J H P C B M 
+209:'move 3 from 3 to 8' 
+moving W
+moving L
+moving L
+
+W F H L N 
+C Z S W 
+R R J 
+G Q 
+C Z V N T T M W F W C Z J F Q 
+
+P N B Q H D B W L L 
+R V B G F Q N Z Q W G J H P C B M 
+210:'move 6 from 9 to 6' 
+moving M
+moving B
+moving C
+moving P
+moving H
+moving J
+
+W F H L N 
+C Z S W 
+R R J 
+G Q 
+C Z V N T T M W F W C Z J F Q M B C P H J 
+
+P N B Q H D B W L L 
+R V B G F Q N Z Q W G 
+211:'move 1 from 5 to 4' 
+moving Q
+
+W F H L N 
+C Z S W 
+R R J Q 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J 
+
+P N B Q H D B W L L 
+R V B G F Q N Z Q W G 
+212:'move 1 from 3 to 8' 
+moving W
+
+W F H L N 
+C Z S 
+R R J Q 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J 
+
+P N B Q H D B W L L W 
+R V B G F Q N Z Q W G 
+213:'move 5 from 2 to 1' 
+moving N
+moving L
+moving H
+moving F
+moving W
+N L H F W 
+
+C Z S 
+R R J Q 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J 
+
+P N B Q H D B W L L W 
+R V B G F Q N Z Q W G 
+214:'move 5 from 1 to 9' 
+moving W
+moving F
+moving H
+moving L
+moving N
+
+
+C Z S 
+R R J Q 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J 
+
+P N B Q H D B W L L W 
+R V B G F Q N Z Q W G W F H L N 
+215:'move 2 from 4 to 9' 
+moving Q
+moving J
+
+
+C Z S 
+R R 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J 
+
+P N B Q H D B W L L W 
+R V B G F Q N Z Q W G W F H L N Q J 
+216:'move 4 from 8 to 6' 
+moving W
+moving L
+moving L
+moving W
+
+
+C Z S 
+R R 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+
+P N B Q H D B 
+R V B G F Q N Z Q W G W F H L N Q J 
+217:'move 1 from 8 to 7' 
+moving B
+
+
+C Z S 
+R R 
+G 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B 
+P N B Q H D 
+R V B G F Q N Z Q W G W F H L N Q J 
+218:'move 4 from 8 to 5' 
+moving D
+moving H
+moving Q
+moving B
+
+
+C Z S 
+R R 
+G D H Q B 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B 
+P N 
+R V B G F Q N Z Q W G W F H L N Q J 
+219:'move 2 from 8 to 2' 
+moving N
+moving P
+
+N P 
+C Z S 
+R R 
+G D H Q B 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B 
+
+R V B G F Q N Z Q W G W F H L N Q J 
+220:'move 17 from 9 to 5' 
+moving J
+moving Q
+moving N
+moving L
+moving H
+moving F
+moving W
+moving G
+moving W
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving G
+moving B
+moving V
+
+N P 
+C Z S 
+R R 
+G D H Q B J Q N L H F W G W Q Z N Q F G B V 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B 
+
+R 
+221:'move 11 from 5 to 7' 
+moving V
+moving B
+moving G
+moving F
+moving Q
+moving N
+moving Z
+moving Q
+moving W
+moving G
+moving W
+
+N P 
+C Z S 
+R R 
+G D H Q B J Q N L H F 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B V B G F Q N Z Q W G W 
+
+R 
+222:'move 1 from 2 to 5' 
+moving P
+
+N 
+C Z S 
+R R 
+G D H Q B J Q N L H F P 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B V B G F Q N Z Q W G W 
+
+R 
+223:'move 1 from 2 to 5' 
+moving N
+
+
+C Z S 
+R R 
+G D H Q B J Q N L H F P N 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B V B G F Q N Z Q W G W 
+
+R 
+224:'move 1 from 9 to 1' 
+moving R
+R 
+
+C Z S 
+R R 
+G D H Q B J Q N L H F P N 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W 
+B V B G F Q N Z Q W G W 
+
+
+225:'move 1 from 1 to 6' 
+moving R
+
+
+C Z S 
+R R 
+G D H Q B J Q N L H F P N 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W R 
+B V B G F Q N Z Q W G W 
+
+
+226:'move 5 from 7 to 6' 
+moving W
+moving G
+moving W
+moving Q
+moving Z
+
+
+C Z S 
+R R 
+G D H Q B J Q N L H F P N 
+C Z V N T T M W F W C Z J F Q M B C P H J W L L W R W G W Q Z 
+B V B G F Q N 
+
+
+227:'move 20 from 6 to 7' 
+moving Z
+moving Q
+moving W
+moving G
+moving W
+moving R
+moving W
+moving L
+moving L
+moving W
+moving J
+moving H
+moving P
+moving C
+moving B
+moving M
+moving Q
+moving F
+moving J
+moving Z
+
+
+C Z S 
+R R 
+G D H Q B J Q N L H F P N 
+C Z V N T T M W F W C 
+B V B G F Q N Z Q W G W R W L L W J H P C B M Q F J Z 
+
+
+228:'move 4 from 6 to 4' 
+moving C
+moving W
+moving F
+moving W
+
+
+C Z S 
+R R C W F W 
+G D H Q B J Q N L H F P N 
+C Z V N T T M 
+B V B G F Q N Z Q W G W R W L L W J H P C B M Q F J Z 
+
+
+229:'move 15 from 7 to 8' 
+moving Z
+moving J
+moving F
+moving Q
+moving M
+moving B
+moving C
+moving P
+moving H
+moving J
+moving W
+moving L
+moving L
+moving W
+moving R
+
+
+C Z S 
+R R C W F W 
+G D H Q B J Q N L H F P N 
+C Z V N T T M 
+B V B G F Q N Z Q W G W 
+Z J F Q M B C P H J W L L W R 
+
+230:'move 2 from 3 to 7' 
+moving S
+moving Z
+
+
+C 
+R R C W F W 
+G D H Q B J Q N L H F P N 
+C Z V N T T M 
+B V B G F Q N Z Q W G W S Z 
+Z J F Q M B C P H J W L L W R 
+
+231:'move 1 from 6 to 5' 
+moving M
+
+
+C 
+R R C W F W 
+G D H Q B J Q N L H F P N M 
+C Z V N T T 
+B V B G F Q N Z Q W G W S Z 
+Z J F Q M B C P H J W L L W R 
+
+232:'move 10 from 8 to 4' 
+moving R
+moving W
+moving L
+moving L
+moving W
+moving J
+moving H
+moving P
+moving C
+moving B
+
+
+C 
+R R C W F W R W L L W J H P C B 
+G D H Q B J Q N L H F P N M 
+C Z V N T T 
+B V B G F Q N Z Q W G W S Z 
+Z J F Q M 
+
+233:'move 1 from 3 to 6' 
+moving C
+
+
+
+R R C W F W R W L L W J H P C B 
+G D H Q B J Q N L H F P N M 
+C Z V N T T C 
+B V B G F Q N Z Q W G W S Z 
+Z J F Q M 
+
+234:'move 4 from 6 to 4' 
+moving C
+moving T
+moving T
+moving N
+
+
+
+R R C W F W R W L L W J H P C B C T T N 
+G D H Q B J Q N L H F P N M 
+C Z V 
+B V B G F Q N Z Q W G W S Z 
+Z J F Q M 
+
+235:'move 13 from 7 to 8' 
+moving Z
+moving S
+moving W
+moving G
+moving W
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving G
+moving B
+moving V
+
+
+
+R R C W F W R W L L W J H P C B C T T N 
+G D H Q B J Q N L H F P N M 
+C Z V 
+B 
+Z J F Q M Z S W G W Q Z N Q F G B V 
+
+236:'move 1 from 7 to 5' 
+moving B
+
+
+
+R R C W F W R W L L W J H P C B C T T N 
+G D H Q B J Q N L H F P N M B 
+C Z V 
+
+Z J F Q M Z S W G W Q Z N Q F G B V 
+
+237:'move 1 from 6 to 3' 
+moving V
+
+
+V 
+R R C W F W R W L L W J H P C B C T T N 
+G D H Q B J Q N L H F P N M B 
+C Z 
+
+Z J F Q M Z S W G W Q Z N Q F G B V 
+
+238:'move 1 from 6 to 3' 
+moving Z
+
+
+V Z 
+R R C W F W R W L L W J H P C B C T T N 
+G D H Q B J Q N L H F P N M B 
+C 
+
+Z J F Q M Z S W G W Q Z N Q F G B V 
+
+239:'move 1 from 6 to 9' 
+moving C
+
+
+V Z 
+R R C W F W R W L L W J H P C B C T T N 
+G D H Q B J Q N L H F P N M B 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B V 
+C 
+240:'move 9 from 4 to 1' 
+moving N
+moving T
+moving T
+moving C
+moving B
+moving C
+moving P
+moving H
+moving J
+N T T C B C P H J 
+
+V Z 
+R R C W F W R W L L W 
+G D H Q B J Q N L H F P N M B 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B V 
+C 
+241:'move 3 from 8 to 2' 
+moving V
+moving B
+moving G
+N T T C B C P H J 
+V B G 
+V Z 
+R R C W F W R W L L W 
+G D H Q B J Q N L H F P N M B 
+
+
+Z J F Q M Z S W G W Q Z N Q F 
+C 
+242:'move 14 from 5 to 6' 
+moving B
+moving M
+moving N
+moving P
+moving F
+moving H
+moving L
+moving N
+moving Q
+moving J
+moving B
+moving Q
+moving H
+moving D
+N T T C B C P H J 
+V B G 
+V Z 
+R R C W F W R W L L W 
+G 
+B M N P F H L N Q J B Q H D 
+
+Z J F Q M Z S W G W Q Z N Q F 
+C 
+243:'move 2 from 2 to 8' 
+moving G
+moving B
+N T T C B C P H J 
+V 
+V Z 
+R R C W F W R W L L W 
+G 
+B M N P F H L N Q J B Q H D 
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C 
+244:'move 1 from 3 to 9' 
+moving Z
+N T T C B C P H J 
+V 
+V 
+R R C W F W R W L L W 
+G 
+B M N P F H L N Q J B Q H D 
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z 
+245:'move 14 from 6 to 2' 
+moving D
+moving H
+moving Q
+moving B
+moving J
+moving Q
+moving N
+moving L
+moving H
+moving F
+moving P
+moving N
+moving M
+moving B
+N T T C B C P H J 
+V D H Q B J Q N L H F P N M B 
+V 
+R R C W F W R W L L W 
+G 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z 
+246:'move 1 from 3 to 9' 
+moving V
+N T T C B C P H J 
+V D H Q B J Q N L H F P N M B 
+
+R R C W F W R W L L W 
+G 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z V 
+247:'move 1 from 9 to 3' 
+moving V
+N T T C B C P H J 
+V D H Q B J Q N L H F P N M B 
+V 
+R R C W F W R W L L W 
+G 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z 
+248:'move 15 from 2 to 1' 
+moving B
+moving M
+moving N
+moving P
+moving F
+moving H
+moving L
+moving N
+moving Q
+moving J
+moving B
+moving Q
+moving H
+moving D
+moving V
+N T T C B C P H J B M N P F H L N Q J B Q H D V 
+
+V 
+R R C W F W R W L L W 
+G 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z 
+249:'move 1 from 3 to 9' 
+moving V
+N T T C B C P H J B M N P F H L N Q J B Q H D V 
+
+
+R R C W F W R W L L W 
+G 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z V 
+250:'move 4 from 4 to 9' 
+moving W
+moving L
+moving L
+moving W
+N T T C B C P H J B M N P F H L N Q J B Q H D V 
+
+
+R R C W F W R 
+G 
+
+
+Z J F Q M Z S W G W Q Z N Q F G B 
+C Z V W L L W 
+251:'move 10 from 8 to 5' 
+moving B
+moving G
+moving F
+moving Q
+moving N
+moving Z
+moving Q
+moving W
+moving G
+moving W
+N T T C B C P H J B M N P F H L N Q J B Q H D V 
+
+
+R R C W F W R 
+G B G F Q N Z Q W G W 
+
+
+Z J F Q M Z S 
+C Z V W L L W 
+252:'move 1 from 9 to 5' 
+moving W
+N T T C B C P H J B M N P F H L N Q J B Q H D V 
+
+
+R R C W F W R 
+G B G F Q N Z Q W G W W 
+
+
+Z J F Q M Z S 
+C Z V W L L 
+253:'move 1 from 1 to 5' 
+moving V
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+
+R R C W F W R 
+G B G F Q N Z Q W G W W V 
+
+
+Z J F Q M Z S 
+C Z V W L L 
+254:'move 4 from 8 to 7' 
+moving S
+moving Z
+moving M
+moving Q
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+
+R R C W F W R 
+G B G F Q N Z Q W G W W V 
+
+S Z M Q 
+Z J F 
+C Z V W L L 
+255:'move 3 from 9 to 3' 
+moving L
+moving L
+moving W
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+L L W 
+R R C W F W R 
+G B G F Q N Z Q W G W W V 
+
+S Z M Q 
+Z J F 
+C Z V 
+256:'move 1 from 8 to 5' 
+moving F
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+L L W 
+R R C W F W R 
+G B G F Q N Z Q W G W W V F 
+
+S Z M Q 
+Z J 
+C Z V 
+257:'move 1 from 4 to 7' 
+moving R
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+L L W 
+R R C W F W 
+G B G F Q N Z Q W G W W V F 
+
+S Z M Q R 
+Z J 
+C Z V 
+258:'move 2 from 8 to 7' 
+moving J
+moving Z
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+L L W 
+R R C W F W 
+G B G F Q N Z Q W G W W V F 
+
+S Z M Q R J Z 
+
+C Z V 
+259:'move 6 from 5 to 6' 
+moving F
+moving V
+moving W
+moving W
+moving G
+moving W
+N T T C B C P H J B M N P F H L N Q J B Q H D 
+
+L L W 
+R R C W F W 
+G B G F Q N Z Q 
+F V W W G W 
+S Z M Q R J Z 
+
+C Z V 
+260:'move 4 from 1 to 2' 
+moving D
+moving H
+moving Q
+moving B
+N T T C B C P H J B M N P F H L N Q J 
+D H Q B 
+L L W 
+R R C W F W 
+G B G F Q N Z Q 
+F V W W G W 
+S Z M Q R J Z 
+
+C Z V 
+261:'move 1 from 2 to 5' 
+moving B
+N T T C B C P H J B M N P F H L N Q J 
+D H Q 
+L L W 
+R R C W F W 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M Q R J Z 
+
+C Z V 
+262:'move 2 from 2 to 8' 
+moving Q
+moving H
+N T T C B C P H J B M N P F H L N Q J 
+D 
+L L W 
+R R C W F W 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M Q R J Z 
+Q H 
+C Z V 
+263:'move 2 from 8 to 1' 
+moving H
+moving Q
+N T T C B C P H J B M N P F H L N Q J H Q 
+D 
+L L W 
+R R C W F W 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M Q R J Z 
+
+C Z V 
+264:'move 3 from 7 to 2' 
+moving Z
+moving J
+moving R
+N T T C B C P H J B M N P F H L N Q J H Q 
+D Z J R 
+L L W 
+R R C W F W 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M Q 
+
+C Z V 
+265:'move 3 from 4 to 9' 
+moving W
+moving F
+moving W
+N T T C B C P H J B M N P F H L N Q J H Q 
+D Z J R 
+L L W 
+R R C 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M Q 
+
+C Z V W F W 
+266:'move 18 from 1 to 8' 
+moving Q
+moving H
+moving J
+moving Q
+moving N
+moving L
+moving H
+moving F
+moving P
+moving N
+moving M
+moving B
+moving J
+moving H
+moving P
+moving C
+moving B
+moving C
+N T T 
+D Z J R 
+L L W 
+R R C 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M Q 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V W F W 
+267:'move 1 from 7 to 3' 
+moving Q
+N T T 
+D Z J R 
+L L W Q 
+R R C 
+G B G F Q N Z Q B 
+F V W W G W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V W F W 
+268:'move 3 from 9 to 6' 
+moving W
+moving F
+moving W
+N T T 
+D Z J R 
+L L W Q 
+R R C 
+G B G F Q N Z Q B 
+F V W W G W W F W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V 
+269:'move 1 from 1 to 5' 
+moving T
+N T 
+D Z J R 
+L L W Q 
+R R C 
+G B G F Q N Z Q B T 
+F V W W G W W F W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V 
+270:'move 5 from 6 to 4' 
+moving W
+moving F
+moving W
+moving W
+moving G
+N T 
+D Z J R 
+L L W Q 
+R R C W F W W G 
+G B G F Q N Z Q B T 
+F V W W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V 
+271:'move 2 from 1 to 9' 
+moving T
+moving N
+
+D Z J R 
+L L W Q 
+R R C W F W W G 
+G B G F Q N Z Q B T 
+F V W W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V T N 
+272:'move 8 from 4 to 5' 
+moving G
+moving W
+moving W
+moving F
+moving W
+moving C
+moving R
+moving R
+
+D Z J R 
+L L W Q 
+
+G B G F Q N Z Q B T G W W F W C R R 
+F V W W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V T N 
+273:'move 4 from 3 to 2' 
+moving Q
+moving W
+moving L
+moving L
+
+D Z J R Q W L L 
+
+
+G B G F Q N Z Q B T G W W F W C R R 
+F V W W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V T N 
+274:'move 16 from 5 to 4' 
+moving R
+moving R
+moving C
+moving W
+moving F
+moving W
+moving W
+moving G
+moving T
+moving B
+moving Q
+moving Z
+moving N
+moving Q
+moving F
+moving G
+
+D Z J R Q W L L 
+
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W 
+S Z M 
+Q H J Q N L H F P N M B J H P C B C 
+C Z V T N 
+275:'move 8 from 8 to 6' 
+moving C
+moving B
+moving C
+moving P
+moving H
+moving J
+moving B
+moving M
+
+D Z J R Q W L L 
+
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W C B C P H J B M 
+S Z M 
+Q H J Q N L H F P N 
+C Z V T N 
+276:'move 2 from 2 to 6' 
+moving L
+moving L
+
+D Z J R Q W 
+
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W C B C P H J B M L L 
+S Z M 
+Q H J Q N L H F P N 
+C Z V T N 
+277:'move 1 from 7 to 6' 
+moving M
+
+D Z J R Q W 
+
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W C B C P H J B M L L M 
+S Z 
+Q H J Q N L H F P N 
+C Z V T N 
+278:'move 7 from 8 to 1' 
+moving N
+moving P
+moving F
+moving H
+moving L
+moving N
+moving Q
+N P F H L N Q 
+D Z J R Q W 
+
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W C B C P H J B M L L M 
+S Z 
+Q H J 
+C Z V T N 
+279:'move 1 from 2 to 3' 
+moving W
+N P F H L N Q 
+D Z J R Q 
+W 
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W C B C P H J B M L L M 
+S Z 
+Q H J 
+C Z V T N 
+280:'move 2 from 8 to 3' 
+moving J
+moving H
+N P F H L N Q 
+D Z J R Q 
+W J H 
+R R C W F W W G T B Q Z N Q F G 
+G B 
+F V W W C B C P H J B M L L M 
+S Z 
+Q 
+C Z V T N 
+281:'move 4 from 4 to 9' 
+moving G
+moving F
+moving Q
+moving N
+N P F H L N Q 
+D Z J R Q 
+W J H 
+R R C W F W W G T B Q Z 
+G B 
+F V W W C B C P H J B M L L M 
+S Z 
+Q 
+C Z V T N G F Q N 
+282:'move 4 from 1 to 2' 
+moving Q
+moving N
+moving L
+moving H
+N P F 
+D Z J R Q Q N L H 
+W J H 
+R R C W F W W G T B Q Z 
+G B 
+F V W W C B C P H J B M L L M 
+S Z 
+Q 
+C Z V T N G F Q N 
+283:'move 1 from 7 to 2' 
+moving Z
+N P F 
+D Z J R Q Q N L H Z 
+W J H 
+R R C W F W W G T B Q Z 
+G B 
+F V W W C B C P H J B M L L M 
+S 
+Q 
+C Z V T N G F Q N 
+284:'move 1 from 5 to 4' 
+moving B
+N P F 
+D Z J R Q Q N L H Z 
+W J H 
+R R C W F W W G T B Q Z B 
+G 
+F V W W C B C P H J B M L L M 
+S 
+Q 
+C Z V T N G F Q N 
+285:'move 1 from 3 to 7' 
+moving H
+N P F 
+D Z J R Q Q N L H Z 
+W J 
+R R C W F W W G T B Q Z B 
+G 
+F V W W C B C P H J B M L L M 
+S H 
+Q 
+C Z V T N G F Q N 
+286:'move 3 from 4 to 5' 
+moving B
+moving Z
+moving Q
+N P F 
+D Z J R Q Q N L H Z 
+W J 
+R R C W F W W G T B 
+G B Z Q 
+F V W W C B C P H J B M L L M 
+S H 
+Q 
+C Z V T N G F Q N 
+287:'move 1 from 9 to 6' 
+moving N
+N P F 
+D Z J R Q Q N L H Z 
+W J 
+R R C W F W W G T B 
+G B Z Q 
+F V W W C B C P H J B M L L M N 
+S H 
+Q 
+C Z V T N G F Q 
+288:'move 9 from 2 to 5' 
+moving Z
+moving H
+moving L
+moving N
+moving Q
+moving Q
+moving R
+moving J
+moving Z
+N P F 
+D 
+W J 
+R R C W F W W G T B 
+G B Z Q Z H L N Q Q R J Z 
+F V W W C B C P H J B M L L M N 
+S H 
+Q 
+C Z V T N G F Q 
+289:'move 2 from 3 to 6' 
+moving J
+moving W
+N P F 
+D 
+
+R R C W F W W G T B 
+G B Z Q Z H L N Q Q R J Z 
+F V W W C B C P H J B M L L M N J W 
+S H 
+Q 
+C Z V T N G F Q 
+290:'move 3 from 5 to 8' 
+moving Z
+moving J
+moving R
+N P F 
+D 
+
+R R C W F W W G T B 
+G B Z Q Z H L N Q Q 
+F V W W C B C P H J B M L L M N J W 
+S H 
+Q Z J R 
+C Z V T N G F Q 
+291:'move 3 from 1 to 7' 
+moving F
+moving P
+moving N
+
+D 
+
+R R C W F W W G T B 
+G B Z Q Z H L N Q Q 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R 
+C Z V T N G F Q 
+292:'move 4 from 5 to 8' 
+moving Q
+moving Q
+moving N
+moving L
+
+D 
+
+R R C W F W W G T B 
+G B Z Q Z H 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L 
+C Z V T N G F Q 
+293:'move 1 from 4 to 3' 
+moving B
+
+D 
+B 
+R R C W F W W G T 
+G B Z Q Z H 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L 
+C Z V T N G F Q 
+294:'move 5 from 9 to 5' 
+moving Q
+moving F
+moving G
+moving N
+moving T
+
+D 
+B 
+R R C W F W W G T 
+G B Z Q Z H Q F G N T 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L 
+C Z V 
+295:'move 5 from 5 to 8' 
+moving T
+moving N
+moving G
+moving F
+moving Q
+
+D 
+B 
+R R C W F W W G T 
+G B Z Q Z H 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V 
+296:'move 1 from 3 to 4' 
+moving B
+
+D 
+
+R R C W F W W G T B 
+G B Z Q Z H 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V 
+297:'move 4 from 5 to 1' 
+moving H
+moving Z
+moving Q
+moving Z
+H Z Q Z 
+D 
+
+R R C W F W W G T B 
+G B 
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V 
+298:'move 2 from 5 to 4' 
+moving B
+moving G
+H Z Q Z 
+D 
+
+R R C W F W W G T B B G 
+
+F V W W C B C P H J B M L L M N J W 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V 
+299:'move 13 from 6 to 2' 
+moving W
+moving J
+moving N
+moving M
+moving L
+moving L
+moving M
+moving B
+moving J
+moving H
+moving P
+moving C
+moving B
+H Z Q Z 
+D W J N M L L M B J H P C B 
+
+R R C W F W W G T B B G 
+
+F V W W C 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V 
+300:'move 12 from 2 to 9' 
+moving B
+moving C
+moving P
+moving H
+moving J
+moving B
+moving M
+moving L
+moving L
+moving M
+moving N
+moving J
+H Z Q Z 
+D W 
+
+R R C W F W W G T B B G 
+
+F V W W C 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C P H J B M L L M N J 
+301:'move 3 from 9 to 2' 
+moving J
+moving N
+moving M
+H Z Q Z 
+D W J N M 
+
+R R C W F W W G T B B G 
+
+F V W W C 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C P H J B M L L 
+302:'move 4 from 1 to 6' 
+moving Z
+moving Q
+moving Z
+moving H
+
+D W J N M 
+
+R R C W F W W G T B B G 
+
+F V W W C Z Q Z H 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C P H J B M L L 
+303:'move 8 from 6 to 2' 
+moving H
+moving Z
+moving Q
+moving Z
+moving C
+moving W
+moving W
+moving V
+
+D W J N M H Z Q Z C W W V 
+
+R R C W F W W G T B B G 
+
+F 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C P H J B M L L 
+304:'move 1 from 4 to 9' 
+moving G
+
+D W J N M H Z Q Z C W W V 
+
+R R C W F W W G T B B 
+
+F 
+S H F P N 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C P H J B M L L G 
+305:'move 3 from 7 to 9' 
+moving N
+moving P
+moving F
+
+D W J N M H Z Q Z C W W V 
+
+R R C W F W W G T B B 
+
+F 
+S H 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C P H J B M L L G N P F 
+306:'move 2 from 9 to 8' 
+moving F
+moving P
+
+D W J N M H Z Q Z C W W V 
+
+R R C W F W W G T B B 
+
+F 
+S H 
+Q Z J R Q Q N L T N G F Q F P 
+C Z V B C P H J B M L L G N 
+307:'move 1 from 7 to 2' 
+moving H
+
+D W J N M H Z Q Z C W W V H 
+
+R R C W F W W G T B B 
+
+F 
+S 
+Q Z J R Q Q N L T N G F Q F P 
+C Z V B C P H J B M L L G N 
+308:'move 9 from 9 to 5' 
+moving N
+moving G
+moving L
+moving L
+moving M
+moving B
+moving J
+moving H
+moving P
+
+D W J N M H Z Q Z C W W V H 
+
+R R C W F W W G T B B 
+N G L L M B J H P 
+F 
+S 
+Q Z J R Q Q N L T N G F Q F P 
+C Z V B C 
+309:'move 2 from 8 to 6' 
+moving P
+moving F
+
+D W J N M H Z Q Z C W W V H 
+
+R R C W F W W G T B B 
+N G L L M B J H P 
+F P F 
+S 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C 
+310:'move 4 from 2 to 3' 
+moving H
+moving V
+moving W
+moving W
+
+D W J N M H Z Q Z C 
+H V W W 
+R R C W F W W G T B B 
+N G L L M B J H P 
+F P F 
+S 
+Q Z J R Q Q N L T N G F Q 
+C Z V B C 
+311:'move 1 from 7 to 2' 
+moving S
+
+D W J N M H Z Q Z C S 
+H V W W 
+R R C W F W W G T B B 
+N G L L M B J H P 
+F P F 
+
+Q Z J R Q Q N L T N G F Q 
+C Z V B C 
+312:'move 1 from 6 to 4' 
+moving F
+
+D W J N M H Z Q Z C S 
+H V W W 
+R R C W F W W G T B B F 
+N G L L M B J H P 
+F P 
+
+Q Z J R Q Q N L T N G F Q 
+C Z V B C 
+313:'move 4 from 3 to 9' 
+moving W
+moving W
+moving V
+moving H
+
+D W J N M H Z Q Z C S 
+
+R R C W F W W G T B B F 
+N G L L M B J H P 
+F P 
+
+Q Z J R Q Q N L T N G F Q 
+C Z V B C W W V H 
+314:'move 9 from 5 to 8' 
+moving P
+moving H
+moving J
+moving B
+moving M
+moving L
+moving L
+moving G
+moving N
+
+D W J N M H Z Q Z C S 
+
+R R C W F W W G T B B F 
+
+F P 
+
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+315:'move 10 from 4 to 2' 
+moving F
+moving B
+moving B
+moving T
+moving G
+moving W
+moving W
+moving F
+moving W
+moving C
+
+D W J N M H Z Q Z C S F B B T G W W F W C 
+
+R R 
+
+F P 
+
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+316:'move 1 from 4 to 7' 
+moving R
+
+D W J N M H Z Q Z C S F B B T G W W F W C 
+
+R 
+
+F P 
+R 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+317:'move 1 from 6 to 2' 
+moving P
+
+D W J N M H Z Q Z C S F B B T G W W F W C P 
+
+R 
+
+F 
+R 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+318:'move 1 from 6 to 7' 
+moving F
+
+D W J N M H Z Q Z C S F B B T G W W F W C P 
+
+R 
+
+
+R F 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+319:'move 13 from 2 to 6' 
+moving P
+moving C
+moving W
+moving F
+moving W
+moving W
+moving G
+moving T
+moving B
+moving B
+moving F
+moving S
+moving C
+
+D W J N M H Z Q Z 
+
+R 
+
+P C W F W W G T B B F S C 
+R F 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+320:'move 1 from 2 to 5' 
+moving Z
+
+D W J N M H Z Q 
+
+R 
+Z 
+P C W F W W G T B B F S C 
+R F 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+321:'move 6 from 6 to 5' 
+moving C
+moving S
+moving F
+moving B
+moving B
+moving T
+
+D W J N M H Z Q 
+
+R 
+Z C S F B B T 
+P C W F W W G 
+R F 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N 
+C Z V B C W W V H 
+322:'move 7 from 5 to 8' 
+moving T
+moving B
+moving B
+moving F
+moving S
+moving C
+moving Z
+
+D W J N M H Z Q 
+
+R 
+
+P C W F W W G 
+R F 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N T B B F S C Z 
+C Z V B C W W V H 
+323:'move 1 from 4 to 5' 
+moving R
+
+D W J N M H Z Q 
+
+
+R 
+P C W F W W G 
+R F 
+Q Z J R Q Q N L T N G F Q P H J B M L L G N T B B F S C Z 
+C Z V B C W W V H 
+324:'move 27 from 8 to 5' 
+moving Z
+moving C
+moving S
+moving F
+moving B
+moving B
+moving T
+moving N
+moving G
+moving L
+moving L
+moving M
+moving B
+moving J
+moving H
+moving P
+moving Q
+moving F
+moving G
+moving N
+moving T
+moving L
+moving N
+moving Q
+moving Q
+moving R
+moving J
+
+D W J N M H Z Q 
+
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J 
+P C W F W W G 
+R F 
+Q Z 
+C Z V B C W W V H 
+325:'move 3 from 6 to 3' 
+moving G
+moving W
+moving W
+
+D W J N M H Z Q 
+G W W 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J 
+P C W F 
+R F 
+Q Z 
+C Z V B C W W V H 
+326:'move 2 from 8 to 6' 
+moving Z
+moving Q
+
+D W J N M H Z Q 
+G W W 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J 
+P C W F Z Q 
+R F 
+
+C Z V B C W W V H 
+327:'move 8 from 9 to 5' 
+moving H
+moving V
+moving W
+moving W
+moving C
+moving B
+moving V
+moving Z
+
+D W J N M H Z Q 
+G W W 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W C B V Z 
+P C W F Z Q 
+R F 
+
+C 
+328:'move 1 from 7 to 9' 
+moving F
+
+D W J N M H Z Q 
+G W W 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W C B V Z 
+P C W F Z Q 
+R 
+
+C F 
+329:'move 1 from 6 to 2' 
+moving Q
+
+D W J N M H Z Q Q 
+G W W 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W C B V Z 
+P C W F Z 
+R 
+
+C F 
+330:'move 4 from 5 to 9' 
+moving Z
+moving V
+moving B
+moving C
+
+D W J N M H Z Q Q 
+G W W 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W 
+P C W F Z 
+R 
+
+C F Z V B C 
+331:'move 2 from 3 to 4' 
+moving W
+moving W
+
+D W J N M H Z Q Q 
+G 
+W W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W 
+P C W F Z 
+R 
+
+C F Z V B C 
+332:'move 9 from 2 to 5' 
+moving Q
+moving Q
+moving Z
+moving H
+moving M
+moving N
+moving J
+moving W
+moving D
+
+
+G 
+W W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R 
+
+C F Z V B C 
+333:'move 1 from 4 to 1' 
+moving W
+W 
+
+G 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R 
+
+C F Z V B C 
+334:'move 1 from 4 to 2' 
+moving W
+W 
+W 
+G 
+
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R 
+
+C F Z V B C 
+335:'move 1 from 2 to 4' 
+moving W
+W 
+
+G 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R 
+
+C F Z V B C 
+336:'move 1 from 3 to 7' 
+moving G
+W 
+
+
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R G 
+
+C F Z V B C 
+337:'move 1 from 1 to 3' 
+moving W
+
+
+W 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R G 
+
+C F Z V B C 
+338:'move 1 from 3 to 9' 
+moving W
+
+
+
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R G 
+
+C F Z V B C W 
+339:'move 6 from 9 to 4' 
+moving W
+moving C
+moving B
+moving V
+moving Z
+moving F
+
+
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D 
+P C W F Z 
+R G 
+
+C 
+340:'move 1 from 7 to 5' 
+moving G
+
+
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H V W W Q Q Z H M N J W D G 
+P C W F Z 
+R 
+
+C 
+341:'move 13 from 5 to 2' 
+moving G
+moving D
+moving W
+moving J
+moving N
+moving M
+moving H
+moving Z
+moving Q
+moving Q
+moving W
+moving W
+moving V
+
+G D W J N M H Z Q Q W W V 
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H 
+P C W F Z 
+R 
+
+C 
+342:'move 1 from 9 to 5' 
+moving C
+
+G D W J N M H Z Q Q W W V 
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H C 
+P C W F Z 
+R 
+
+
+343:'move 1 from 7 to 2' 
+moving R
+
+G D W J N M H Z Q Q W W V R 
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H C 
+P C W F Z 
+
+
+
+344:'move 5 from 2 to 7' 
+moving R
+moving V
+moving W
+moving W
+moving Q
+
+G D W J N M H Z Q 
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T L N Q Q R J H C 
+P C W F Z 
+R V W W Q 
+
+
+345:'move 8 from 5 to 7' 
+moving C
+moving H
+moving J
+moving R
+moving Q
+moving Q
+moving N
+moving L
+
+G D W J N M H Z Q 
+
+W W C B V Z F 
+R Z C S F B B T N G L L M B J H P Q F G N T 
+P C W F Z 
+R V W W Q C H J R Q Q N L 
+
+
+346:'move 6 from 4 to 2' 
+moving F
+moving Z
+moving V
+moving B
+moving C
+moving W
+
+G D W J N M H Z Q F Z V B C W 
+
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T 
+P C W F Z 
+R V W W Q C H J R Q Q N L 
+
+
+347:'move 1 from 4 to 5' 
+moving W
+
+G D W J N M H Z Q F Z V B C W 
+
+
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+R V W W Q C H J R Q Q N L 
+
+
+348:'move 3 from 2 to 4' 
+moving W
+moving C
+moving B
+
+G D W J N M H Z Q F Z V 
+
+W C B 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+R V W W Q C H J R Q Q N L 
+
+
+349:'move 4 from 2 to 7' 
+moving V
+moving Z
+moving F
+moving Q
+
+G D W J N M H Z 
+
+W C B 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+R V W W Q C H J R Q Q N L V Z F Q 
+
+
+350:'move 2 from 4 to 3' 
+moving B
+moving C
+
+G D W J N M H Z 
+B C 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+R V W W Q C H J R Q Q N L V Z F Q 
+
+
+351:'move 13 from 7 to 3' 
+moving Q
+moving F
+moving Z
+moving V
+moving L
+moving N
+moving Q
+moving Q
+moving R
+moving J
+moving H
+moving C
+moving Q
+
+G D W J N M H Z 
+B C Q F Z V L N Q Q R J H C Q 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+R V W W 
+
+
+352:'move 5 from 2 to 3' 
+moving Z
+moving H
+moving M
+moving N
+moving J
+
+G D W 
+B C Q F Z V L N Q Q R J H C Q Z H M N J 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+R V W W 
+
+
+353:'move 4 from 7 to 8' 
+moving W
+moving W
+moving V
+moving R
+
+G D W 
+B C Q F Z V L N Q Q R J H C Q Z H M N J 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+
+W W V R 
+
+354:'move 11 from 3 to 8' 
+moving J
+moving N
+moving M
+moving H
+moving Z
+moving Q
+moving C
+moving H
+moving J
+moving R
+moving Q
+
+G D W 
+B C Q F Z V L N Q 
+W 
+R Z C S F B B T N G L L M B J H P Q F G N T W 
+P C W F Z 
+
+W W V R J N M H Z Q C H J R Q 
+
+355:'move 11 from 5 to 9' 
+moving W
+moving T
+moving N
+moving G
+moving F
+moving Q
+moving P
+moving H
+moving J
+moving B
+moving M
+
+G D W 
+B C Q F Z V L N Q 
+W 
+R Z C S F B B T N G L L 
+P C W F Z 
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M 
+356:'move 4 from 6 to 9' 
+moving Z
+moving F
+moving W
+moving C
+
+G D W 
+B C Q F Z V L N Q 
+W 
+R Z C S F B B T N G L L 
+P 
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+357:'move 1 from 6 to 5' 
+moving P
+
+G D W 
+B C Q F Z V L N Q 
+W 
+R Z C S F B B T N G L L P 
+
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+358:'move 1 from 4 to 2' 
+moving W
+
+G D W W 
+B C Q F Z V L N Q 
+
+R Z C S F B B T N G L L P 
+
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+359:'move 1 from 3 to 6' 
+moving Q
+
+G D W W 
+B C Q F Z V L N 
+
+R Z C S F B B T N G L L P 
+Q 
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+360:'move 3 from 2 to 6' 
+moving W
+moving W
+moving D
+
+G 
+B C Q F Z V L N 
+
+R Z C S F B B T N G L L P 
+Q W W D 
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+361:'move 3 from 6 to 2' 
+moving D
+moving W
+moving W
+
+G D W W 
+B C Q F Z V L N 
+
+R Z C S F B B T N G L L P 
+Q 
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+362:'move 1 from 6 to 1' 
+moving Q
+Q 
+G D W W 
+B C Q F Z V L N 
+
+R Z C S F B B T N G L L P 
+
+
+W W V R J N M H Z Q C H J R Q 
+W T N G F Q P H J B M Z F W C 
+363:'move 1 from 3 to 8' 
+moving N
+Q 
+G D W W 
+B C Q F Z V L 
+
+R Z C S F B B T N G L L P 
+
+
+W W V R J N M H Z Q C H J R Q N 
+W T N G F Q P H J B M Z F W C 
+364:'move 3 from 3 to 6' 
+moving L
+moving V
+moving Z
+Q 
+G D W W 
+B C Q F 
+
+R Z C S F B B T N G L L P 
+L V Z 
+
+W W V R J N M H Z Q C H J R Q N 
+W T N G F Q P H J B M Z F W C 
+365:'move 2 from 2 to 7' 
+moving W
+moving W
+Q 
+G D 
+B C Q F 
+
+R Z C S F B B T N G L L P 
+L V Z 
+W W 
+W W V R J N M H Z Q C H J R Q N 
+W T N G F Q P H J B M Z F W C 
+366:'move 4 from 3 to 9' 
+moving F
+moving Q
+moving C
+moving B
+Q 
+G D 
+
+
+R Z C S F B B T N G L L P 
+L V Z 
+W W 
+W W V R J N M H Z Q C H J R Q N 
+W T N G F Q P H J B M Z F W C F Q C B 
+367:'move 16 from 9 to 2' 
+moving B
+moving C
+moving Q
+moving F
+moving C
+moving W
+moving F
+moving Z
+moving M
+moving B
+moving J
+moving H
+moving P
+moving Q
+moving F
+moving G
+Q 
+G D B C Q F C W F Z M B J H P Q F G 
+
+
+R Z C S F B B T N G L L P 
+L V Z 
+W W 
+W W V R J N M H Z Q C H J R Q N 
+W T N 
+368:'move 1 from 7 to 8' 
+moving W
+Q 
+G D B C Q F C W F Z M B J H P Q F G 
+
+
+R Z C S F B B T N G L L P 
+L V Z 
+W 
+W W V R J N M H Z Q C H J R Q N W 
+W T N 
+369:'move 2 from 2 to 8' 
+moving G
+moving F
+Q 
+G D B C Q F C W F Z M B J H P Q 
+
+
+R Z C S F B B T N G L L P 
+L V Z 
+W 
+W W V R J N M H Z Q C H J R Q N W G F 
+W T N 
+370:'move 9 from 2 to 3' 
+moving Q
+moving P
+moving H
+moving J
+moving B
+moving M
+moving Z
+moving F
+moving W
+Q 
+G D B C Q F C 
+Q P H J B M Z F W 
+
+R Z C S F B B T N G L L P 
+L V Z 
+W 
+W W V R J N M H Z Q C H J R Q N W G F 
+W T N 
+371:'move 6 from 2 to 7' 
+moving C
+moving F
+moving Q
+moving C
+moving B
+moving D
+Q 
+G 
+Q P H J B M Z F W 
+
+R Z C S F B B T N G L L P 
+L V Z 
+W C F Q C B D 
+W W V R J N M H Z Q C H J R Q N W G F 
+W T N 
+372:'move 1 from 6 to 3' 
+moving Z
+Q 
+G 
+Q P H J B M Z F W Z 
+
+R Z C S F B B T N G L L P 
+L V 
+W C F Q C B D 
+W W V R J N M H Z Q C H J R Q N W G F 
+W T N 
+373:'move 2 from 9 to 2' 
+moving N
+moving T
+Q 
+G N T 
+Q P H J B M Z F W Z 
+
+R Z C S F B B T N G L L P 
+L V 
+W C F Q C B D 
+W W V R J N M H Z Q C H J R Q N W G F 
+W 
+374:'move 1 from 9 to 7' 
+moving W
+Q 
+G N T 
+Q P H J B M Z F W Z 
+
+R Z C S F B B T N G L L P 
+L V 
+W C F Q C B D W 
+W W V R J N M H Z Q C H J R Q N W G F 
+
+375:'move 2 from 6 to 3' 
+moving V
+moving L
+Q 
+G N T 
+Q P H J B M Z F W Z V L 
+
+R Z C S F B B T N G L L P 
+
+W C F Q C B D W 
+W W V R J N M H Z Q C H J R Q N W G F 
+
+376:'move 4 from 3 to 9' 
+moving L
+moving V
+moving Z
+moving W
+Q 
+G N T 
+Q P H J B M Z F 
+
+R Z C S F B B T N G L L P 
+
+W C F Q C B D W 
+W W V R J N M H Z Q C H J R Q N W G F 
+L V Z W 
+377:'move 2 from 2 to 7' 
+moving T
+moving N
+Q 
+G 
+Q P H J B M Z F 
+
+R Z C S F B B T N G L L P 
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G F 
+L V Z W 
+378:'move 1 from 2 to 5' 
+moving G
+Q 
+
+Q P H J B M Z F 
+
+R Z C S F B B T N G L L P G 
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G F 
+L V Z W 
+379:'move 14 from 5 to 6' 
+moving G
+moving P
+moving L
+moving L
+moving G
+moving N
+moving T
+moving B
+moving B
+moving F
+moving S
+moving C
+moving Z
+moving R
+Q 
+
+Q P H J B M Z F 
+
+
+G P L L G N T B B F S C Z R 
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G F 
+L V Z W 
+380:'move 14 from 6 to 3' 
+moving R
+moving Z
+moving C
+moving S
+moving F
+moving B
+moving B
+moving T
+moving N
+moving G
+moving L
+moving L
+moving P
+moving G
+Q 
+
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+
+
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G F 
+L V Z W 
+381:'move 4 from 9 to 8' 
+moving W
+moving Z
+moving V
+moving L
+Q 
+
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+
+
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G F W Z V L 
+
+382:'move 5 from 8 to 4' 
+moving L
+moving V
+moving Z
+moving W
+moving F
+Q 
+
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+L V Z W F 
+
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G 
+
+383:'move 1 from 1 to 5' 
+moving Q
+
+
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+L V Z W F 
+Q 
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R Q N W G 
+
+384:'move 4 from 8 to 1' 
+moving G
+moving W
+moving N
+moving Q
+G W N Q 
+
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+L V Z W F 
+Q 
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R 
+
+385:'move 1 from 5 to 9' 
+moving Q
+G W N Q 
+
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+L V Z W F 
+
+
+W C F Q C B D W T N 
+W W V R J N M H Z Q C H J R 
+Q 
+386:'move 8 from 7 to 2' 
+moving N
+moving T
+moving W
+moving D
+moving B
+moving C
+moving Q
+moving F
+G W N Q 
+N T W D B C Q F 
+Q P H J B M Z F R Z C S F B B T N G L L P G 
+L V Z W F 
+
+
+W C 
+W W V R J N M H Z Q C H J R 
+Q 
+387:'move 18 from 3 to 7' 
+moving G
+moving P
+moving L
+moving L
+moving G
+moving N
+moving T
+moving B
+moving B
+moving F
+moving S
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving M
+moving B
+G W N Q 
+N T W D B C Q F 
+Q P H J 
+L V Z W F 
+
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J R 
+Q 
+388:'move 1 from 1 to 5' 
+moving Q
+G W N 
+N T W D B C Q F 
+Q P H J 
+L V Z W F 
+Q 
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J R 
+Q 
+389:'move 1 from 1 to 9' 
+moving N
+G W 
+N T W D B C Q F 
+Q P H J 
+L V Z W F 
+Q 
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J R 
+Q N 
+390:'move 1 from 4 to 5' 
+moving F
+G W 
+N T W D B C Q F 
+Q P H J 
+L V Z W 
+Q F 
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J R 
+Q N 
+391:'move 1 from 8 to 5' 
+moving R
+G W 
+N T W D B C Q F 
+Q P H J 
+L V Z W 
+Q F R 
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J 
+Q N 
+392:'move 8 from 2 to 9' 
+moving F
+moving Q
+moving C
+moving B
+moving D
+moving W
+moving T
+moving N
+G W 
+
+Q P H J 
+L V Z W 
+Q F R 
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J 
+Q N F Q C B D W T N 
+393:'move 3 from 5 to 8' 
+moving R
+moving F
+moving Q
+G W 
+
+Q P H J 
+L V Z W 
+
+
+W C G P L L G N T B B F S C Z R F Z M B 
+W W V R J N M H Z Q C H J R F Q 
+Q N F Q C B D W T N 
+394:'move 7 from 7 to 1' 
+moving B
+moving M
+moving Z
+moving F
+moving R
+moving Z
+moving C
+G W B M Z F R Z C 
+
+Q P H J 
+L V Z W 
+
+
+W C G P L L G N T B B F S 
+W W V R J N M H Z Q C H J R F Q 
+Q N F Q C B D W T N 
+395:'move 3 from 4 to 7' 
+moving W
+moving Z
+moving V
+G W B M Z F R Z C 
+
+Q P H J 
+L 
+
+
+W C G P L L G N T B B F S W Z V 
+W W V R J N M H Z Q C H J R F Q 
+Q N F Q C B D W T N 
+396:'move 1 from 3 to 6' 
+moving J
+G W B M Z F R Z C 
+
+Q P H 
+L 
+
+J 
+W C G P L L G N T B B F S W Z V 
+W W V R J N M H Z Q C H J R F Q 
+Q N F Q C B D W T N 
+397:'move 7 from 8 to 3' 
+moving Q
+moving F
+moving R
+moving J
+moving H
+moving C
+moving Q
+G W B M Z F R Z C 
+
+Q P H Q F R J H C Q 
+L 
+
+J 
+W C G P L L G N T B B F S W Z V 
+W W V R J N M H Z 
+Q N F Q C B D W T N 
+398:'move 2 from 9 to 3' 
+moving N
+moving T
+G W B M Z F R Z C 
+
+Q P H Q F R J H C Q N T 
+L 
+
+J 
+W C G P L L G N T B B F S W Z V 
+W W V R J N M H Z 
+Q N F Q C B D W 
+399:'move 3 from 8 to 9' 
+moving Z
+moving H
+moving M
+G W B M Z F R Z C 
+
+Q P H Q F R J H C Q N T 
+L 
+
+J 
+W C G P L L G N T B B F S W Z V 
+W W V R J N 
+Q N F Q C B D W Z H M 
+400:'move 9 from 1 to 7' 
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving M
+moving B
+moving W
+moving G
+
+
+Q P H Q F R J H C Q N T 
+L 
+
+J 
+W C G P L L G N T B B F S W Z V C Z R F Z M B W G 
+W W V R J N 
+Q N F Q C B D W Z H M 
+401:'move 9 from 3 to 4' 
+moving T
+moving N
+moving Q
+moving C
+moving H
+moving J
+moving R
+moving F
+moving Q
+
+
+Q P H 
+L T N Q C H J R F Q 
+
+J 
+W C G P L L G N T B B F S W Z V C Z R F Z M B W G 
+W W V R J N 
+Q N F Q C B D W Z H M 
+402:'move 2 from 3 to 4' 
+moving H
+moving P
+
+
+Q 
+L T N Q C H J R F Q H P 
+
+J 
+W C G P L L G N T B B F S W Z V C Z R F Z M B W G 
+W W V R J N 
+Q N F Q C B D W Z H M 
+403:'move 12 from 7 to 4' 
+moving G
+moving W
+moving B
+moving M
+moving Z
+moving F
+moving R
+moving Z
+moving C
+moving V
+moving Z
+moving W
+
+
+Q 
+L T N Q C H J R F Q H P G W B M Z F R Z C V Z W 
+
+J 
+W C G P L L G N T B B F S 
+W W V R J N 
+Q N F Q C B D W Z H M 
+404:'move 1 from 3 to 8' 
+moving Q
+
+
+
+L T N Q C H J R F Q H P G W B M Z F R Z C V Z W 
+
+J 
+W C G P L L G N T B B F S 
+W W V R J N Q 
+Q N F Q C B D W Z H M 
+405:'move 1 from 8 to 7' 
+moving Q
+
+
+
+L T N Q C H J R F Q H P G W B M Z F R Z C V Z W 
+
+J 
+W C G P L L G N T B B F S Q 
+W W V R J N 
+Q N F Q C B D W Z H M 
+406:'move 8 from 4 to 7' 
+moving W
+moving Z
+moving V
+moving C
+moving Z
+moving R
+moving F
+moving Z
+
+
+
+L T N Q C H J R F Q H P G W B M 
+
+J 
+W C G P L L G N T B B F S Q W Z V C Z R F Z 
+W W V R J N 
+Q N F Q C B D W Z H M 
+407:'move 11 from 4 to 9' 
+moving M
+moving B
+moving W
+moving G
+moving P
+moving H
+moving Q
+moving F
+moving R
+moving J
+moving H
+
+
+
+L T N Q C 
+
+J 
+W C G P L L G N T B B F S Q W Z V C Z R F Z 
+W W V R J N 
+Q N F Q C B D W Z H M M B W G P H Q F R J H 
+408:'move 5 from 4 to 8' 
+moving C
+moving Q
+moving N
+moving T
+moving L
+
+
+
+
+
+J 
+W C G P L L G N T B B F S Q W Z V C Z R F Z 
+W W V R J N C Q N T L 
+Q N F Q C B D W Z H M M B W G P H Q F R J H 
+409:'move 19 from 7 to 9' 
+moving Z
+moving F
+moving R
+moving Z
+moving C
+moving V
+moving Z
+moving W
+moving Q
+moving S
+moving F
+moving B
+moving B
+moving T
+moving N
+moving G
+moving L
+moving L
+moving P
+
+
+
+
+
+J 
+W C G 
+W W V R J N C Q N T L 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+410:'move 1 from 6 to 2' 
+moving J
+
+J 
+
+
+
+
+W C G 
+W W V R J N C Q N T L 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+411:'move 2 from 7 to 4' 
+moving G
+moving C
+
+J 
+
+G C 
+
+
+W 
+W W V R J N C Q N T L 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+412:'move 2 from 8 to 3' 
+moving L
+moving T
+
+J 
+L T 
+G C 
+
+
+W 
+W W V R J N C Q N 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+413:'move 1 from 7 to 8' 
+moving W
+
+J 
+L T 
+G C 
+
+
+
+W W V R J N C Q N W 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+414:'move 1 from 3 to 2' 
+moving T
+
+J T 
+L 
+G C 
+
+
+
+W W V R J N C Q N W 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+415:'move 3 from 8 to 4' 
+moving W
+moving N
+moving Q
+
+J T 
+L 
+G C W N Q 
+
+
+
+W W V R J N C 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P 
+416:'move 1 from 8 to 9' 
+moving C
+
+J T 
+L 
+G C W N Q 
+
+
+
+W W V R J N 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P C 
+417:'move 1 from 3 to 2' 
+moving L
+
+J T L 
+
+G C W N Q 
+
+
+
+W W V R J N 
+Q N F Q C B D W Z H M M B W G P H Q F R J H Z F R Z C V Z W Q S F B B T N G L L P C 
+418:'move 36 from 9 to 1' 
+moving C
+moving P
+moving L
+moving L
+moving G
+moving N
+moving T
+moving B
+moving B
+moving F
+moving S
+moving Q
+moving W
+moving Z
+moving V
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving H
+moving J
+moving R
+moving F
+moving Q
+moving H
+moving P
+moving G
+moving W
+moving B
+moving M
+moving M
+moving H
+moving Z
+moving W
+moving D
+C P L L G N T B B F S Q W Z V C Z R F Z H J R F Q H P G W B M M H Z W D 
+J T L 
+
+G C W N Q 
+
+
+
+W W V R J N 
+Q N F Q C B 
+419:'move 5 from 9 to 6' 
+moving B
+moving C
+moving Q
+moving F
+moving N
+C P L L G N T B B F S Q W Z V C Z R F Z H J R F Q H P G W B M M H Z W D 
+J T L 
+
+G C W N Q 
+
+B C Q F N 
+
+W W V R J N 
+Q 
+420:'move 5 from 4 to 2' 
+moving Q
+moving N
+moving W
+moving C
+moving G
+C P L L G N T B B F S Q W Z V C Z R F Z H J R F Q H P G W B M M H Z W D 
+J T L Q N W C G 
+
+
+
+B C Q F N 
+
+W W V R J N 
+Q 
+421:'move 24 from 1 to 3' 
+moving D
+moving W
+moving Z
+moving H
+moving M
+moving M
+moving B
+moving W
+moving G
+moving P
+moving H
+moving Q
+moving F
+moving R
+moving J
+moving H
+moving Z
+moving F
+moving R
+moving Z
+moving C
+moving V
+moving Z
+moving W
+C P L L G N T B B F S Q 
+J T L Q N W C G 
+D W Z H M M B W G P H Q F R J H Z F R Z C V Z W 
+
+
+B C Q F N 
+
+W W V R J N 
+Q 
+422:'move 5 from 6 to 7' 
+moving N
+moving F
+moving Q
+moving C
+moving B
+C P L L G N T B B F S Q 
+J T L Q N W C G 
+D W Z H M M B W G P H Q F R J H Z F R Z C V Z W 
+
+
+
+N F Q C B 
+W W V R J N 
+Q 
+423:'move 1 from 1 to 4' 
+moving Q
+C P L L G N T B B F S 
+J T L Q N W C G 
+D W Z H M M B W G P H Q F R J H Z F R Z C V Z W 
+Q 
+
+
+N F Q C B 
+W W V R J N 
+Q 
+424:'move 14 from 3 to 4' 
+moving W
+moving Z
+moving V
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving H
+moving J
+moving R
+moving F
+moving Q
+moving H
+C P L L G N T B B F S 
+J T L Q N W C G 
+D W Z H M M B W G P 
+Q W Z V C Z R F Z H J R F Q H 
+
+
+N F Q C B 
+W W V R J N 
+Q 
+425:'move 4 from 7 to 3' 
+moving B
+moving C
+moving Q
+moving F
+C P L L G N T B B F S 
+J T L Q N W C G 
+D W Z H M M B W G P B C Q F 
+Q W Z V C Z R F Z H J R F Q H 
+
+
+N 
+W W V R J N 
+Q 
+426:'move 1 from 8 to 5' 
+moving N
+C P L L G N T B B F S 
+J T L Q N W C G 
+D W Z H M M B W G P B C Q F 
+Q W Z V C Z R F Z H J R F Q H 
+N 
+
+N 
+W W V R J 
+Q 
+427:'move 5 from 2 to 9' 
+moving G
+moving C
+moving W
+moving N
+moving Q
+C P L L G N T B B F S 
+J T L 
+D W Z H M M B W G P B C Q F 
+Q W Z V C Z R F Z H J R F Q H 
+N 
+
+N 
+W W V R J 
+Q G C W N Q 
+428:'move 1 from 1 to 6' 
+moving S
+C P L L G N T B B F 
+J T L 
+D W Z H M M B W G P B C Q F 
+Q W Z V C Z R F Z H J R F Q H 
+N 
+S 
+N 
+W W V R J 
+Q G C W N Q 
+429:'move 5 from 9 to 1' 
+moving Q
+moving N
+moving W
+moving C
+moving G
+C P L L G N T B B F Q N W C G 
+J T L 
+D W Z H M M B W G P B C Q F 
+Q W Z V C Z R F Z H J R F Q H 
+N 
+S 
+N 
+W W V R J 
+Q 
+430:'move 3 from 2 to 3' 
+moving L
+moving T
+moving J
+C P L L G N T B B F Q N W C G 
+
+D W Z H M M B W G P B C Q F L T J 
+Q W Z V C Z R F Z H J R F Q H 
+N 
+S 
+N 
+W W V R J 
+Q 
+431:'move 1 from 5 to 3' 
+moving N
+C P L L G N T B B F Q N W C G 
+
+D W Z H M M B W G P B C Q F L T J N 
+Q W Z V C Z R F Z H J R F Q H 
+
+S 
+N 
+W W V R J 
+Q 
+432:'move 11 from 4 to 2' 
+moving H
+moving Q
+moving F
+moving R
+moving J
+moving H
+moving Z
+moving F
+moving R
+moving Z
+moving C
+C P L L G N T B B F Q N W C G 
+H Q F R J H Z F R Z C 
+D W Z H M M B W G P B C Q F L T J N 
+Q W Z V 
+
+S 
+N 
+W W V R J 
+Q 
+433:'move 1 from 7 to 1' 
+moving N
+C P L L G N T B B F Q N W C G N 
+H Q F R J H Z F R Z C 
+D W Z H M M B W G P B C Q F L T J N 
+Q W Z V 
+
+S 
+
+W W V R J 
+Q 
+434:'move 6 from 1 to 9' 
+moving N
+moving G
+moving C
+moving W
+moving N
+moving Q
+C P L L G N T B B F 
+H Q F R J H Z F R Z C 
+D W Z H M M B W G P B C Q F L T J N 
+Q W Z V 
+
+S 
+
+W W V R J 
+Q N G C W N Q 
+435:'move 3 from 4 to 2' 
+moving V
+moving Z
+moving W
+C P L L G N T B B F 
+H Q F R J H Z F R Z C V Z W 
+D W Z H M M B W G P B C Q F L T J N 
+Q 
+
+S 
+
+W W V R J 
+Q N G C W N Q 
+436:'move 1 from 6 to 7' 
+moving S
+C P L L G N T B B F 
+H Q F R J H Z F R Z C V Z W 
+D W Z H M M B W G P B C Q F L T J N 
+Q 
+
+
+S 
+W W V R J 
+Q N G C W N Q 
+437:'move 10 from 1 to 7' 
+moving F
+moving B
+moving B
+moving T
+moving N
+moving G
+moving L
+moving L
+moving P
+moving C
+
+H Q F R J H Z F R Z C V Z W 
+D W Z H M M B W G P B C Q F L T J N 
+Q 
+
+
+S F B B T N G L L P C 
+W W V R J 
+Q N G C W N Q 
+438:'move 3 from 2 to 1' 
+moving W
+moving Z
+moving V
+W Z V 
+H Q F R J H Z F R Z C 
+D W Z H M M B W G P B C Q F L T J N 
+Q 
+
+
+S F B B T N G L L P C 
+W W V R J 
+Q N G C W N Q 
+439:'move 3 from 3 to 2' 
+moving N
+moving J
+moving T
+W Z V 
+H Q F R J H Z F R Z C N J T 
+D W Z H M M B W G P B C Q F L 
+Q 
+
+
+S F B B T N G L L P C 
+W W V R J 
+Q N G C W N Q 
+440:'move 2 from 1 to 7' 
+moving V
+moving Z
+W 
+H Q F R J H Z F R Z C N J T 
+D W Z H M M B W G P B C Q F L 
+Q 
+
+
+S F B B T N G L L P C V Z 
+W W V R J 
+Q N G C W N Q 
+441:'move 1 from 4 to 8' 
+moving Q
+W 
+H Q F R J H Z F R Z C N J T 
+D W Z H M M B W G P B C Q F L 
+
+
+
+S F B B T N G L L P C V Z 
+W W V R J Q 
+Q N G C W N Q 
+442:'move 13 from 3 to 2' 
+moving L
+moving F
+moving Q
+moving C
+moving B
+moving P
+moving G
+moving W
+moving B
+moving M
+moving M
+moving H
+moving Z
+W 
+H Q F R J H Z F R Z C N J T L F Q C B P G W B M M H Z 
+D W 
+
+
+
+S F B B T N G L L P C V Z 
+W W V R J Q 
+Q N G C W N Q 
+443:'move 1 from 8 to 3' 
+moving Q
+W 
+H Q F R J H Z F R Z C N J T L F Q C B P G W B M M H Z 
+D W Q 
+
+
+
+S F B B T N G L L P C V Z 
+W W V R J 
+Q N G C W N Q 
+444:'move 2 from 7 to 5' 
+moving Z
+moving V
+W 
+H Q F R J H Z F R Z C N J T L F Q C B P G W B M M H Z 
+D W Q 
+
+Z V 
+
+S F B B T N G L L P C 
+W W V R J 
+Q N G C W N Q 
+445:'move 2 from 3 to 7' 
+moving Q
+moving W
+W 
+H Q F R J H Z F R Z C N J T L F Q C B P G W B M M H Z 
+D 
+
+Z V 
+
+S F B B T N G L L P C Q W 
+W W V R J 
+Q N G C W N Q 
+446:'move 2 from 5 to 2' 
+moving V
+moving Z
+W 
+H Q F R J H Z F R Z C N J T L F Q C B P G W B M M H Z V Z 
+D 
+
+
+
+S F B B T N G L L P C Q W 
+W W V R J 
+Q N G C W N Q 
+447:'move 1 from 1 to 7' 
+moving W
+
+H Q F R J H Z F R Z C N J T L F Q C B P G W B M M H Z V Z 
+D 
+
+
+
+S F B B T N G L L P C Q W W 
+W W V R J 
+Q N G C W N Q 
+448:'move 28 from 2 to 6' 
+moving Z
+moving V
+moving Z
+moving H
+moving M
+moving M
+moving B
+moving W
+moving G
+moving P
+moving B
+moving C
+moving Q
+moving F
+moving L
+moving T
+moving J
+moving N
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving H
+moving J
+moving R
+moving F
+moving Q
+
+H 
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J R F Q 
+S F B B T N G L L P C Q W W 
+W W V R J 
+Q N G C W N Q 
+449:'move 1 from 2 to 3' 
+moving H
+
+
+D H 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J R F Q 
+S F B B T N G L L P C Q W W 
+W W V R J 
+Q N G C W N Q 
+450:'move 2 from 8 to 2' 
+moving J
+moving R
+
+J R 
+D H 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J R F Q 
+S F B B T N G L L P C Q W W 
+W W V 
+Q N G C W N Q 
+451:'move 6 from 9 to 7' 
+moving Q
+moving N
+moving W
+moving C
+moving G
+moving N
+
+J R 
+D H 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J R F Q 
+S F B B T N G L L P C Q W W Q N W C G N 
+W W V 
+Q 
+452:'move 1 from 3 to 8' 
+moving H
+
+J R 
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J R F Q 
+S F B B T N G L L P C Q W W Q N W C G N 
+W W V H 
+Q 
+453:'move 1 from 9 to 8' 
+moving Q
+
+J R 
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J R F Q 
+S F B B T N G L L P C Q W W Q N W C G N 
+W W V H Q 
+
+454:'move 3 from 6 to 2' 
+moving Q
+moving F
+moving R
+
+J R Q F R 
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J 
+S F B B T N G L L P C Q W W Q N W C G N 
+W W V H Q 
+
+455:'move 14 from 7 to 9' 
+moving N
+moving G
+moving C
+moving W
+moving N
+moving Q
+moving W
+moving W
+moving Q
+moving C
+moving P
+moving L
+moving L
+moving G
+
+J R Q F R 
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G 
+456:'move 3 from 2 to 1' 
+moving R
+moving F
+moving Q
+R F Q 
+J R 
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G 
+457:'move 2 from 2 to 9' 
+moving R
+moving J
+R F Q 
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G R J 
+458:'move 2 from 1 to 9' 
+moving Q
+moving F
+R 
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G R J Q F 
+459:'move 1 from 9 to 1' 
+moving F
+R F 
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N C Z R F Z H J 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G R J Q 
+460:'move 7 from 6 to 9' 
+moving J
+moving H
+moving Z
+moving F
+moving R
+moving Z
+moving C
+R F 
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+461:'move 2 from 1 to 4' 
+moving F
+moving R
+
+
+D 
+F R 
+
+Z V Z H M M B W G P B C Q F L T J N 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+462:'move 2 from 4 to 6' 
+moving R
+moving F
+
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N R F 
+S F B B T N 
+W W V H Q 
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+463:'move 4 from 8 to 7' 
+moving Q
+moving H
+moving V
+moving W
+
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N R F 
+S F B B T N Q H V W 
+W 
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+464:'move 1 from 7 to 6' 
+moving W
+
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N R F W 
+S F B B T N Q H V 
+W 
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+465:'move 1 from 8 to 1' 
+moving W
+W 
+
+D 
+
+
+Z V Z H M M B W G P B C Q F L T J N R F W 
+S F B B T N Q H V 
+
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+466:'move 1 from 3 to 6' 
+moving D
+W 
+
+
+
+
+Z V Z H M M B W G P B C Q F L T J N R F W D 
+S F B B T N Q H V 
+
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+467:'move 1 from 1 to 5' 
+moving W
+
+
+
+
+W 
+Z V Z H M M B W G P B C Q F L T J N R F W D 
+S F B B T N Q H V 
+
+N G C W N Q W W Q C P L L G R J Q J H Z F R Z C 
+468:'move 14 from 9 to 8' 
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving H
+moving J
+moving Q
+moving J
+moving R
+moving G
+moving L
+moving L
+moving P
+
+
+
+
+W 
+Z V Z H M M B W G P B C Q F L T J N R F W D 
+S F B B T N Q H V 
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C 
+469:'move 1 from 5 to 9' 
+moving W
+
+
+
+
+
+Z V Z H M M B W G P B C Q F L T J N R F W D 
+S F B B T N Q H V 
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C W 
+470:'move 5 from 7 to 3' 
+moving V
+moving H
+moving Q
+moving N
+moving T
+
+
+V H Q N T 
+
+
+Z V Z H M M B W G P B C Q F L T J N R F W D 
+S F B B 
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C W 
+471:'move 16 from 6 to 3' 
+moving D
+moving W
+moving F
+moving R
+moving N
+moving J
+moving T
+moving L
+moving F
+moving Q
+moving C
+moving B
+moving P
+moving G
+moving W
+moving B
+
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+
+
+Z V Z H M M 
+S F B B 
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C W 
+472:'move 2 from 7 to 4' 
+moving B
+moving B
+
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+B B 
+
+Z V Z H M M 
+S F 
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C W 
+473:'move 8 from 9 to 5' 
+moving W
+moving C
+moving Q
+moving W
+moving W
+moving Q
+moving N
+moving W
+
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+B B 
+W C Q W W Q N W 
+Z V Z H M M 
+S F 
+C Z R F Z H J Q J R G L L P 
+N G C 
+474:'move 6 from 6 to 1' 
+moving M
+moving M
+moving H
+moving Z
+moving V
+moving Z
+M M H Z V Z 
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+B B 
+W C Q W W Q N W 
+
+S F 
+C Z R F Z H J Q J R G L L P 
+N G C 
+475:'move 8 from 5 to 9' 
+moving W
+moving N
+moving Q
+moving W
+moving W
+moving Q
+moving C
+moving W
+M M H Z V Z 
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+B B 
+
+
+S F 
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C W 
+476:'move 2 from 7 to 4' 
+moving F
+moving S
+M M H Z V Z 
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+B B F S 
+
+
+
+C Z R F Z H J Q J R G L L P 
+N G C W N Q W W Q C W 
+477:'move 11 from 9 to 1' 
+moving W
+moving C
+moving Q
+moving W
+moving W
+moving Q
+moving N
+moving W
+moving C
+moving G
+moving N
+M M H Z V Z W C Q W W Q N W C G N 
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+B B F S 
+
+
+
+C Z R F Z H J Q J R G L L P 
+
+478:'move 4 from 4 to 1' 
+moving S
+moving F
+moving B
+moving B
+M M H Z V Z W C Q W W Q N W C G N S F B B 
+
+V H Q N T D W F R N J T L F Q C B P G W B 
+
+
+
+
+C Z R F Z H J Q J R G L L P 
+
+479:'move 14 from 8 to 3' 
+moving P
+moving L
+moving L
+moving G
+moving R
+moving J
+moving Q
+moving J
+moving H
+moving Z
+moving F
+moving R
+moving Z
+moving C
+M M H Z V Z W C Q W W Q N W C G N S F B B 
+
+V H Q N T D W F R N J T L F Q C B P G W B P L L G R J Q J H Z F R Z C 
+
+
+
+
+
+
+480:'move 2 from 1 to 7' 
+moving B
+moving B
+M M H Z V Z W C Q W W Q N W C G N S F 
+
+V H Q N T D W F R N J T L F Q C B P G W B P L L G R J Q J H Z F R Z C 
+
+
+
+B B 
+
+
+481:'move 20 from 3 to 6' 
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving H
+moving J
+moving Q
+moving J
+moving R
+moving G
+moving L
+moving L
+moving P
+moving B
+moving W
+moving G
+moving P
+moving B
+moving C
+M M H Z V Z W C Q W W Q N W C G N S F 
+
+V H Q N T D W F R N J T L F Q 
+
+
+C Z R F Z H J Q J R G L L P B W G P B C 
+B B 
+
+
+482:'move 5 from 3 to 1' 
+moving Q
+moving F
+moving L
+moving T
+moving J
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R N 
+
+
+C Z R F Z H J Q J R G L L P B W G P B C 
+B B 
+
+
+483:'move 1 from 3 to 5' 
+moving N
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R 
+
+N 
+C Z R F Z H J Q J R G L L P B W G P B C 
+B B 
+
+
+484:'move 2 from 7 to 4' 
+moving B
+moving B
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R 
+B B 
+N 
+C Z R F Z H J Q J R G L L P B W G P B C 
+
+
+
+485:'move 20 from 6 to 7' 
+moving C
+moving B
+moving P
+moving G
+moving W
+moving B
+moving P
+moving L
+moving L
+moving G
+moving R
+moving J
+moving Q
+moving J
+moving H
+moving Z
+moving F
+moving R
+moving Z
+moving C
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R 
+B B 
+N 
+
+C B P G W B P L L G R J Q J H Z F R Z C 
+
+
+486:'move 18 from 7 to 6' 
+moving C
+moving Z
+moving R
+moving F
+moving Z
+moving H
+moving J
+moving Q
+moving J
+moving R
+moving G
+moving L
+moving L
+moving P
+moving B
+moving W
+moving G
+moving P
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R 
+B B 
+N 
+C Z R F Z H J Q J R G L L P B W G P 
+C B 
+
+
+487:'move 17 from 6 to 9' 
+moving P
+moving G
+moving W
+moving B
+moving P
+moving L
+moving L
+moving G
+moving R
+moving J
+moving Q
+moving J
+moving H
+moving Z
+moving F
+moving R
+moving Z
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R 
+B B 
+N 
+C 
+C B 
+
+P G W B P L L G R J Q J H Z F R Z 
+488:'move 1 from 5 to 3' 
+moving N
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+
+V H Q N T D W F R N 
+B B 
+
+C 
+C B 
+
+P G W B P L L G R J Q J H Z F R Z 
+489:'move 6 from 3 to 2' 
+moving N
+moving R
+moving F
+moving W
+moving D
+moving T
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J 
+N R F W D T 
+V H Q N 
+B B 
+
+C 
+C B 
+
+P G W B P L L G R J Q J H Z F R Z 
+490:'move 3 from 3 to 1' 
+moving N
+moving Q
+moving H
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J N Q H 
+N R F W D T 
+V 
+B B 
+
+C 
+C B 
+
+P G W B P L L G R J Q J H Z F R Z 
+491:'move 1 from 6 to 2' 
+moving C
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J N Q H 
+N R F W D T C 
+V 
+B B 
+
+
+C B 
+
+P G W B P L L G R J Q J H Z F R Z 
+492:'move 2 from 7 to 8' 
+moving B
+moving C
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T J N Q H 
+N R F W D T C 
+V 
+B B 
+
+
+
+B C 
+P G W B P L L G R J Q J H Z F R Z 
+493:'move 4 from 1 to 5' 
+moving H
+moving Q
+moving N
+moving J
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T 
+N R F W D T C 
+V 
+B B 
+H Q N J 
+
+
+B C 
+P G W B P L L G R J Q J H Z F R Z 
+494:'move 2 from 4 to 9' 
+moving B
+moving B
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T 
+N R F W D T C 
+V 
+
+H Q N J 
+
+
+B C 
+P G W B P L L G R J Q J H Z F R Z B B 
+495:'move 1 from 3 to 2' 
+moving V
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T 
+N R F W D T C V 
+
+
+H Q N J 
+
+
+B C 
+P G W B P L L G R J Q J H Z F R Z B B 
+496:'move 1 from 8 to 6' 
+moving C
+M M H Z V Z W C Q W W Q N W C G N S F Q F L T 
+N R F W D T C V 
+
+
+H Q N J 
+C 
+
+B 
+P G W B P L L G R J Q J H Z F R Z B B 
+497:'move 18 from 1 to 4' 
+moving T
+moving L
+moving F
+moving Q
+moving F
+moving S
+moving N
+moving G
+moving C
+moving W
+moving N
+moving Q
+moving W
+moving W
+moving Q
+moving C
+moving W
+moving Z
+M M H Z V 
+N R F W D T C V 
+
+T L F Q F S N G C W N Q W W Q C W Z 
+H Q N J 
+C 
+
+B 
+P G W B P L L G R J Q J H Z F R Z B B 
+498:'move 1 from 2 to 7' 
+moving V
+M M H Z V 
+N R F W D T C 
+
+T L F Q F S N G C W N Q W W Q C W Z 
+H Q N J 
+C 
+V 
+B 
+P G W B P L L G R J Q J H Z F R Z B B 
+499:'move 1 from 6 to 2' 
+moving C
+M M H Z V 
+N R F W D T C C 
+
+T L F Q F S N G C W N Q W W Q C W Z 
+H Q N J 
+
+V 
+B 
+P G W B P L L G R J Q J H Z F R Z B B 
+500:'move 3 from 4 to 3' 
+moving Z
+moving W
+moving C
+M M H Z V 
+N R F W D T C C 
+Z W C 
+T L F Q F S N G C W N Q W W Q 
+H Q N J 
+
+V 
+B 
+P G W B P L L G R J Q J H Z F R Z B B 
+501:'move 1 from 8 to 1' 
+moving B
+M M H Z V B 
+N R F W D T C C 
+Z W C 
+T L F Q F S N G C W N Q W W Q 
+H Q N J 
+
+V 
+
+P G W B P L L G R J Q J H Z F R Z B B 
+502:'move 4 from 1 to 6' 
+moving B
+moving V
+moving Z
+moving H
+M M 
+N R F W D T C C 
+Z W C 
+T L F Q F S N G C W N Q W W Q 
+H Q N J 
+B V Z H 
+V 
+
+P G W B P L L G R J Q J H Z F R Z B B 
+503:'move 7 from 2 to 1' 
+moving C
+moving C
+moving T
+moving D
+moving W
+moving F
+moving R
+M M C C T D W F R 
+N 
+Z W C 
+T L F Q F S N G C W N Q W W Q 
+H Q N J 
+B V Z H 
+V 
+
+P G W B P L L G R J Q J H Z F R Z B B 
+504:'move 1 from 5 to 7' 
+moving J
+M M C C T D W F R 
+N 
+Z W C 
+T L F Q F S N G C W N Q W W Q 
+H Q N 
+B V Z H 
+V J 
+
+P G W B P L L G R J Q J H Z F R Z B B 
+505:'move 1 from 4 to 1' 
+moving Q
+M M C C T D W F R Q 
+N 
+Z W C 
+T L F Q F S N G C W N Q W W 
+H Q N 
+B V Z H 
+V J 
+
+P G W B P L L G R J Q J H Z F R Z B B 
+506:'move 2 from 6 to 3' 
+moving H
+moving Z
+M M C C T D W F R Q 
+N 
+Z W C H Z 
+T L F Q F S N G C W N Q W W 
+H Q N 
+B V 
+V J 
+
+P G W B P L L G R J Q J H Z F R Z B B 
+507:'move 3 from 5 to 9' 
+moving N
+moving Q
+moving H
+M M C C T D W F R Q 
+N 
+Z W C H Z 
+T L F Q F S N G C W N Q W W 
+
+B V 
+V J 
+
+P G W B P L L G R J Q J H Z F R Z B B N Q H 
+508:'move 9 from 9 to 8' 
+moving H
+moving Q
+moving N
+moving B
+moving B
+moving Z
+moving R
+moving F
+moving Z
+M M C C T D W F R Q 
+N 
+Z W C H Z 
+T L F Q F S N G C W N Q W W 
+
+B V 
+V J 
+H Q N B B Z R F Z 
+P G W B P L L G R J Q J H 
+509:'move 10 from 9 to 3' 
+moving H
+moving J
+moving Q
+moving J
+moving R
+moving G
+moving L
+moving L
+moving P
+moving B
+M M C C T D W F R Q 
+N 
+Z W C H Z H J Q J R G L L P B 
+T L F Q F S N G C W N Q W W 
+
+B V 
+V J 
+H Q N B B Z R F Z 
+P G W 
+510:'move 9 from 3 to 5' 
+moving B
+moving P
+moving L
+moving L
+moving G
+moving R
+moving J
+moving Q
+moving J
+M M C C T D W F R Q 
+N 
+Z W C H Z H 
+T L F Q F S N G C W N Q W W 
+B P L L G R J Q J 
+B V 
+V J 
+H Q N B B Z R F Z 
+P G W 
+---
+M M C C T D W F R Q 
+N 
+Z W C H Z H 
+T L F Q F S N G C W N Q W W 
+B P L L G R J Q J 
+B V 
+V J 
+H Q N B B Z R F Z 
+P G W 

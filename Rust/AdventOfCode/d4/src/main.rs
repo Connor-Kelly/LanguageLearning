@@ -4,7 +4,7 @@ use std::io::{self, BufReader};
 // use std::Vec
 
 fn main() -> io::Result<()> {
-    let file_path = "input.txt";
+    let file_path = "smolinput.txt";
     let f = BufReader::new(File::open(file_path)?);
     let mut count = 0;
     // let mut grp = Vec::new();
@@ -32,7 +32,7 @@ fn main() -> io::Result<()> {
         //         b.first() <= a.first(), 
         //         a.last() <= b.last()
         //     );
-        // }
+        }
     }
     // println!()
     println!("count {}", count);

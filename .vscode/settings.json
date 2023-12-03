@@ -2,5 +2,8 @@
 	"ocaml.sandbox": {
 		"kind": "opam",
 		"switch": "C:\\Users\\conno\\AppData\\Local\\Programs\\DiskuvOCaml\\dkml"
+	},
+	"files.associations": {
+		"iostream": "cpp"
 	}
 }

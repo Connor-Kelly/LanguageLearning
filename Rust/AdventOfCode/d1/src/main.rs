@@ -34,6 +34,7 @@ fn main() -> io::Result<()> {
     println!("{}", top_elves);
     let top_sum: i32 = elves[0..3].iter().sum();
     println!("{}", top_sum.to_string());
+    
 
     Ok(())
 }
